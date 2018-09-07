@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Git History" description="Show git history with git extensions" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\GitExtensions\gitex.cmd" />
+      <option name="PARAMETERS" value="filehistory $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
