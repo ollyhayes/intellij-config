@@ -50,11 +50,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" timestamp="1536591474669">
-        <mark key="[" line="304" column="61" />
-        <mark key="]" line="304" column="61" />
-        <mark key="." line="304" column="61" />
-        <mark key="^" line="304" column="74" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" timestamp="1536596875196">
+        <mark key="'" line="284" column="38" />
+        <mark key="[" line="126" column="54" />
+        <mark key="]" line="126" column="54" />
+        <mark key="^" line="283" column="38" />
+        <mark key="." line="126" column="54" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IRandomNumberGenerator.java" timestamp="1536249531630">
         <mark key="[" line="8" column="48" />
@@ -261,71 +262,85 @@
       <jump line="45" column="3" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" />
       <jump line="41" column="53" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecMerger.java" />
       <jump line="18" column="40" filename="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" />
+      <jump line="101" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="112" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="119" column="26" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="120" column="24" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="123" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="130" column="22" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="135" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="177" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="182" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="215" column="26" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="220" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="259" column="24" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="280" column="22" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="281" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="316" column="85" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="335" column="43" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="361" column="27" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="362" column="46" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="373" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="77" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="81" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="87" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="91" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="97" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="284" column="38" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>granu</text>
+        <text>blackli</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG93ZXJMaW1pdCA9PSBudWxsKQogICAgICAgICAgICBsb3dlckxpbWl0ID0gbmV3IE51bWVyaWNMaW1pdDw+KEJpZ0RlY2ltYWwudmFsdWVPZihEb3VibGUuTUFYX1ZBTFVFKS5uZWdhdGUoKSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERvdWJsZS5NQVhfVkFMVUUpLnN1YnRyYWN0KEJpZ0RlY2ltYWwuT05FKSwKICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERvdWJsZS5NQVhfVkFMVUUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHdoZW5VcHBlckJvdW5kTm90U3BlY2lmaWVkKCkgewogICAgICAgIGdpdmVuTG93ZXJCb3VuZCgwLCB0cnVlKTsKCiAgICAgICAgZXhwZWN0RmluaXRlKCk7CiAgICAgICAgZXhwZWN0VmFsdWVDb3VudChEb3VibGUuTUFYX0VYUE9ORU5UKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbgo=</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsLnZhbHVlT2YoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCB3aGVuVXBwZXJCb3VuZE5vdFNwZWNpZmllZCgpIHsKICAgICAgICBnaXZlbkxvd2VyQm91bmQoMCwgdHJ1ZSk7CgogICAgICAgIGV4cGVjdEZpbml0ZSgpOwogICAgICAgIGV4cGVjdFZhbHVlQ291bnQoSW50ZWdlci5NQVhfVkFMVUUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChCaWdEZWNpbWFsOjpuZXcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHdoZW5VcHBlckJvdW5kTm90U3BlY2lmaWVkKCkgewogICAgICAgIGdpdmVuTG93ZXJCb3VuZCgwLCB0cnVlKTsKCiAgICAgICAgZXhwZWN0RmluaXRlKCk7CiAgICAgICAgZXhwZWN0VmFsdWVDb3VudChEb3VibGUuTUFYX0VYUE9ORU5UKTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gICAgQFRlc3QKLy8gICAgdm9pZCBzaG91bGRTdXBwbHlFeGNsdXNpdmVJbnRlcmVzdGluZ1ZhbHVlcygpIHsKLy8gICAgICAgIGdpdmVuTG93ZXJCb3VuZCgwLCBmYWxzZSk7Ci8vICAgICAgICBnaXZlblVwcGVyQm91bmQoMTAwLCBmYWxzZSk7Ci8vCi8vICAgICAgICBleHBlY3RJbnRlcmVzdGluZ1ZhbHVlcygxLCA5OSk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgdm9pZCBzaG91bGRBdm9pZEJsYWNrbGlzdGVkSW50ZXJlc3RpbmdWYWx1ZXMoKSB7Ci8vICAgICAgICBnaXZlbkxvd2VyQm91bmQoLTEwMCwgZmFsc2UpOwovLyAgICAgICAgZ2l2ZW5VcHBlckJvdW5kKDEwMCwgdHJ1ZSk7Ci8vCi8vICAgICAgICBnaXZlbkJsYWNrbGlzdCgtMTAwLCAwLCAxMDApOwovLwovLyAgICAgICAgZXhwZWN0SW50ZXJlc3RpbmdWYWx1ZXMoLTk5LCA5OSk7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB1cHBlckxpbWl0ID0gdXBwZXJMaW1pdCA9PSBudWxsCiAgICAgICAgICAgID8gbmV3IE51bWVyaWNMaW1pdDw+KEJpZ0RlY2ltYWwudmFsdWVPZihEb3VibGUuTUFYX1ZBTFVFKSwgdHJ1ZSkKICAgICAgICAgICAgOiB1cHBlckxpbWl0Owo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCB3aGVuVXBwZXJCb3VuZE5vdFNwZWNpZmllZCgpIHsKICAgICAgICBnaXZlbkxvd2VyQm91bmQoMCwgdHJ1ZSk7CgogICAgICAgIGV4cGVjdEZpbml0ZSgpOwogICAgICAgIGV4cGVjdFZhbHVlQ291bnQoSW50ZWdlci5NQVhfVkFMVUUpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb3dlckxpbWl0ID0gbG93ZXJMaW1pdCA9PSBudWxsCiAgICAgICAgICAgID8gbmV3IE51bWVyaWNMaW1pdDw+KEJpZ0RlY2ltYWwudmFsdWVPZihEb3VibGUuTUFYX1ZBTFVFKS5uZWdhdGUoKSwgdHJ1ZSkKICAgICAgICAgICAgOiBsb3dlckxpbWl0OwogICAgICAgIAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8KLy8gICAgQFRlc3QKLy8gICAgdm9pZCBzaG91bGRTdXBwbHlFeGNsdXNpdmVJbnRlcmVzdGluZ1ZhbHVlcygpIHsKLy8gICAgICAgIGdpdmVuTG93ZXJCb3VuZCgwLCBmYWxzZSk7Ci8vICAgICAgICBnaXZlblVwcGVyQm91bmQoMTAwLCBmYWxzZSk7Ci8vCi8vICAgICAgICBleHBlY3RJbnRlcmVzdGluZ1ZhbHVlcygxLCA5OSk7Ci8vICAgIH0KLy8KLy8gICAgQFRlc3QKLy8gICAgdm9pZCBzaG91bGRBdm9pZEJsYWNrbGlzdGVkSW50ZXJlc3RpbmdWYWx1ZXMoKSB7Ci8vICAgICAgICBnaXZlbkxvd2VyQm91bmQoLTEwMCwgZmFsc2UpOwovLyAgICAgICAgZ2l2ZW5VcHBlckJvdW5kKDEwMCwgdHJ1ZSk7Ci8vCi8vICAgICAgICBnaXZlbkJsYWNrbGlzdCgtMTAwLCAwLCAxMDApOwovLwovLyAgICAgICAgZXhwZWN0SW50ZXJlc3RpbmdWYWx1ZXMoLTk5LCA5OSk7Ci8vICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB1cHBlckxpbWl0ID0gdXBwZXJMaW1pdCA9PSBudWxsCiAgICAgICAgICAgID8gbmV3IE51bWVyaWNMaW1pdDw+KEJpZ0RlY2ltYWwudmFsdWVPZihEb3VibGUuTUFYX1ZBTFVFKSwgdHJ1ZSkKICAgICAgICAgICAgOiB1cHBlckxpbWl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
       <register name="z" type="4">
-        <keys>
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-        </keys>
+        <text>f&quot;x;x</text>
       </register>
     </registers>
     <search>
-      <last-search>granu</last-search>
+      <last-search>blackli</last-search>
       <last-offset />
-      <last-pattern>granu</last-pattern>
-      <last-replace>Upper</last-replace>
-      <last-substitute>Lower</last-substitute>
+      <last-pattern>blackli</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -344,6 +359,9 @@
         <entry>array</entry>
         <entry>Lower</entry>
         <entry>granu</entry>
+        <entry encoding="base64">XDxnaXZlbkJsYWNrbGlzdFw+</entry>
+        <entry>&quot;</entry>
+        <entry>blackli</entry>
       </history-search>
       <history-cmd>
         <entry>CtrlPMRU</entry>
@@ -357,6 +375,7 @@
         <entry>action Tool_External Tools_Git History</entry>
         <entry encoding="base64">JzwsJz5zL0xvd2VyL1VwcGVyLw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvLw==</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
