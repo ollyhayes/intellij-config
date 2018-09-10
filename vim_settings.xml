@@ -87,18 +87,24 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536569417391">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536573523807">
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1536570019172">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictionsMerger.java" timestamp="1536572890978">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1536572183664">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="72" column="74" />
-        <mark key="]" line="72" column="12" />
-        <mark key="." line="72" column="12" />
-        <mark key="^" line="72" column="29" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="74" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1536141980615">
         <mark key="[" line="28" column="29" />
@@ -106,10 +112,11 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/NumberUtils.java" timestamp="1536239059064">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/NumberUtils.java" timestamp="1536571778237">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IFieldValueSource.java" timestamp="1535978402568">
         <mark key="[" line="8" column="29" />
@@ -250,43 +257,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>return Num</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>return Num</text>
       </register>
       <register name="/" type="4">
         <text>Lower</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdHMudG9TdHJpbmcoZGF0ZVRpbWVSZXN0cmljdGlvbnMsICItIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChCaWdEZWNpbWFsKSBiaWdEZWNpbWFsRm9ybWF0dGVyLnBhcnNlKChTdHJpbmcpdmFsdWUsIG5ldyBQYXJzZVBvc2l0aW9uKDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGVmdCA9PSBudWxsICYmIHJpZ2h0ID09IG51bGwpCiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ3JhbnVsYXJpdHk7CgogICAgcHVibGljIGludCBnZXROdW1lcmljU2NhbGVWYWx1ZSgpIHsKICAgICAgICBCaWdEZWNpbWFsIHZhbHVlID0gTnVtYmVyVXRpbHMudHJ5UGFyc2UoZ3JhbnVsYXJpdHkpOwoKICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuIDA7CgogICAgICAgIHJldHVybiB2YWx1ZS5zY2FsZSgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmVnYXRlKQogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJDYW4ndCBzYXkgbm90IHNjYWxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChncmFudWxhcml0eSA9PSAiMSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZ3JhbnVsYXJpdHkgPSBjb25zdHJhaW50LmdyYW51bGFyaXR5Owo=</text>
+        <text encoding="base64">ICAgIAogICAgcHUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgYXBwbHkoRmllbGRTcGVjIGZpZWxkU3BlYywgSXNHcmFudWxhclRvQ29uc3RyYWludCBjb25zdHJhaW50LCBib29sZWFuIG5lZ2F0ZSkgewogICAgICAgIFN0cmluZyBncmFudWxhcml0eSA9IGNvbnN0cmFpbnQuZ3JhbnVsYXJpdHk7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseUlzQmVmb3JlQ29uc3RyYWludChmaWVsZFNwZWMsIGNvbnN0cmFpbnQuLCB0cnVlLCBuZWdhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHZhbHVlID0gTnVtYmVyVXRpbHMudHJ5UGFyc2UoZ3JhbnVsYXJpdHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
