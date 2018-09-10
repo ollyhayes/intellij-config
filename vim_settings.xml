@@ -109,12 +109,19 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/profiler/src/main/scala/com/scottlogic/deg/mappers/ConstraintDTOMapper.scala" timestamp="1536567428817" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSource.java" timestamp="1536248996410">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="74" column="92" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1536567513769">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0-sources.jar!/org/hamcrest/Matchers.java" timestamp="1536141782935">
         <mark key="[" line="654" column="10" />
