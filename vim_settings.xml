@@ -76,12 +76,6 @@
         <mark key="^" line="49" column="60" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecFactory.java" timestamp="1536574843527">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-        <mark key="^" line="5" column="69" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/GenerationConfig.java" timestamp="1536590623296">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="12" />
@@ -105,9 +99,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1536589602276">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1536141980615">
         <mark key="[" line="28" column="29" />
@@ -141,11 +135,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" timestamp="1536568159533">
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="93" column="54" />
-        <mark key="." line="93" column="54" />
-        <mark key="^" line="93" column="54" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" timestamp="1536651548502">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/V3ProfileDTO.java" timestamp="1536585375337">
         <mark key="[" line="13" column="37" />
@@ -187,11 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSource.java" />
-      <jump line="40" column="70" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IStringGenerator.java" />
-      <jump line="14" column="30" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
-      <jump line="22" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
-      <jump line="32" column="18" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
       <jump line="40" column="38" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
       <jump line="58" column="41" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
       <jump line="90" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
@@ -287,6 +277,11 @@
       <jump line="91" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="97" column="13" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="284" column="38" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
+      <jump line="21" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
+      <jump line="15" column="55" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
+      <jump line="51" column="32" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +291,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>blackli</text>
+        <text encoding="base64">XDxzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERvdWJsZS5NQVhfVkFMVUUpLnN1YnRyYWN0KEJpZ0RlY2ltYWwuT05FKSwKICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERvdWJsZS5NQVhfVkFMVUUpKTsK</text>
@@ -336,13 +331,13 @@
       </register>
     </registers>
     <search>
-      <last-search>blackli</last-search>
+      <last-search encoding="base64">XDxzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvclw+</last-search>
       <last-offset />
-      <last-pattern>blackli</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvclw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -362,6 +357,8 @@
         <entry encoding="base64">XDxnaXZlbkJsYWNrbGlzdFw+</entry>
         <entry>&quot;</entry>
         <entry>blackli</entry>
+        <entry encoding="base64">XDx0eXBlQ29kZVRvU3BlY2lmaWNSZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>CtrlPMRU</entry>
