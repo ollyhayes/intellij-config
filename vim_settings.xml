@@ -156,6 +156,10 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1536852511153">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="61" column="45" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" timestamp="1536675127515">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="32" />
@@ -306,7 +310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIlRlc3RfMDAwX2JhbmFuYSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJUZXN0XzAwMF9hcHBsZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJUZXN0X0FBQUFBX2FwcGxlIiwKICAgICAgICAgICAgICAgICAgICAgICAgIlRlc3RfQUFBQUFfYmFuYW5hIikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
