@@ -124,12 +124,11 @@
         <mark key="^" line="29" column="40" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" timestamp="1536768057100">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" timestamp="1536823782960">
         <mark key="'" line="36" column="35" />
-        <mark key="[" line="180" column="59" />
-        <mark key="]" line="185" column="12" />
-        <mark key="^" line="185" column="12" />
-        <mark key="." line="185" column="12" />
+        <mark key="[" line="179" column="59" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IFieldValueSource.java" timestamp="1535978402568">
         <mark key="[" line="8" column="29" />
@@ -315,7 +314,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZW5kCg==</text>
       </register>
       <register name="-" type="4">
         <text>regexStr</text>
@@ -330,31 +329,31 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHNob3VsZE1hdGNoQW5jaG9yZWRTdHJpbmcoKSB7CiAgICAgICAgZ2l2ZW5SZWdleCgiXnRlc3QkIik7CgogICAgICAgIGV4cGVjdE1hdGNoKCJ0ZXN0Iik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBhbmNob3JSZWdleFN0cmluZyhTdHJpbmcgcmVnZXhTdHIpIHsKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoCiAgICAgICAgICAgIGFjdHVhbFZhbHVlLAogICAgICAgICAgICBlcXVhbFRvKGV4cGVjdGVkVmFsdWUpKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWN0dWFsVmFsdWUgPSBnZW5lcmF0b3IuZ2VuZXJhdGVBbGxWYWx1ZXMoKS5pdGVyYXRvcigpLm5leHQoKTsKCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBhbmNob3JSZWdleFN0cmluZyhTdHJpbmcgcmVnZXhTdHIpIHsKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoCiAgICAgICAgICAgIGFjdHVhbFZhbHVlLAogICAgICAgICAgICBlcXVhbFRvKGV4cGVjdGVkVmFsdWUpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZXhwZWN0TWF0Y2goU3RyaW5nIHRlc3QpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWN0dWFsVmFsdWUgPSBnZW5lcmF0b3IuZ2VuZXJhdGVBbGxWYWx1ZXMoKS5pdGVyYXRvcigpLm5leHQoKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5yZWZsZWN0LmdlbmVyaWNzLnJlZmxlY3RpdmVPYmplY3RzLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZXhwZWN0TWF0Y2goU3RyaW5nIHRlc3QpIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlbmVyYXRlSW50ZXJlc3RpbmdWYWx1ZXModHJhbnNpdGlvbi5nZXREZXN0KCksIG1hdGNoZWRWYWx1ZSArIHRyYW5zaXRpb24uZ2V0TWluKCkpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -381,7 +380,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
