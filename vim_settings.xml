@@ -135,6 +135,7 @@
         <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintReducer.java" timestamp="1536911461854" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1536913537289" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSource.java" timestamp="1536676864543">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="44" column="0" />
