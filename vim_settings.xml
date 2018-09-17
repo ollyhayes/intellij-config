@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSource.java" timestamp="1536049647904">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsGranularToConstraint.java" timestamp="1536568101533">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -40,6 +45,11 @@
         <mark key="^" line="320" column="73" />
         <mark key="." line="320" column="73" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IRandomNumberGenerator.java" timestamp="1536674812363">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/TemporalFieldValueSource.java" timestamp="1536674957311">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
@@ -60,9 +70,6 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecFactory.java" timestamp="1537176499593">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="38" />
         <mark key="^" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/GenerationConfig.java" timestamp="1536590623296">
@@ -76,6 +83,11 @@
         <mark key="]" line="30" column="85" />
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/Utils/RegexStringGeneratorTests.java" timestamp="1536161971865">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536847797177">
         <mark key="[" line="12" column="54" />
@@ -101,11 +113,11 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/SedolStringGenerator.java" timestamp="1537176751097">
-        <mark key="[" line="23" column="106" />
-        <mark key="]" line="23" column="111" />
-        <mark key="." line="23" column="111" />
-        <mark key="^" line="23" column="111" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/SedolStringGenerator.java" timestamp="1537181552138">
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="57" column="55" />
+        <mark key="." line="57" column="55" />
+        <mark key="^" line="57" column="55" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/NumberUtils.java" timestamp="1536676278812">
         <mark key="'" line="23" column="40" />
@@ -113,13 +125,6 @@
         <mark key="]" line="30" column="39" />
         <mark key="^" line="29" column="40" />
         <mark key="." line="30" column="43" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" timestamp="1537176288276">
-        <mark key="'" line="175" column="54" />
-        <mark key="[" line="175" column="49" />
-        <mark key="]" line="175" column="49" />
-        <mark key="." line="175" column="54" />
-        <mark key="^" line="173" column="72" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IFieldValueSource.java" timestamp="1535978402568">
         <mark key="[" line="8" column="29" />
@@ -135,7 +140,7 @@
         <mark key="^" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1537178888780">
-        <mark key="'" line="19" column="40" />
+        <mark key="'" line="18" column="40" />
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
@@ -144,24 +149,27 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/regex/Pattern.java" timestamp="1536765999178">
         <mark key="'" line="1597" column="36" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecMerger.java" timestamp="1536674981663">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1537178185464">
-        <mark key="'" line="286" column="4" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
+        <mark key="'" line="232" column="4" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" timestamp="1537176577962">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="43" />
-        <mark key="^" line="46" column="43" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" timestamp="1537181441893">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" timestamp="1537176803709">
-        <mark key="[" line="196" column="58" />
-        <mark key="]" line="189" column="77" />
-        <mark key="^" line="189" column="77" />
-        <mark key="." line="196" column="63" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" timestamp="1537181509158">
+        <mark key="'" line="159" column="35" />
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1536929169400">
         <mark key="'" line="27" column="48" />
@@ -178,12 +186,7 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" timestamp="1537176716757">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" timestamp="1537176716757" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/TemporalFieldValueSourceTests.java" timestamp="1536676511015">
         <mark key="[" line="140" column="29" />
         <mark key="]" line="140" column="29" />
@@ -196,10 +199,23 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/Isin.java" timestamp="1537181461740">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1536228171234">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IsinUtils.java" timestamp="1537181467499">
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="66" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSource.java" />
-      <jump line="196" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="136" column="49" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSource.java" />
       <jump line="80" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/Utils/RegexStringGeneratorTests.java" />
       <jump line="80" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RegexStringGenerator.java" />
@@ -298,13 +314,15 @@
       <jump line="175" column="54" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
       <jump line="265" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" />
       <jump line="286" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
+      <jump line="159" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>throw new UnsupportedOperationException();</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>throw new UnsupportedOperationException();</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -316,33 +334,33 @@
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RDb250YWluQW5jaG9yZWRTdHJpbmcoKSB7CiAgICAgICAgZ2l2ZW5SZWdleCgiXnRlc3QkIik7CgogICAgICAgIGV4cGVjdE1hdGNoKCJ0ZXN0dGVzdCIsIGZhbHNlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RNYXRjaEFuY2hvcmVkU3RyaW5nKCkgewogICAgICAgIGdpdmVuUmVnZXgoIl50ZXN0JCIpOwoKICAgICAgICBleHBlY3RNYXRjaCgidGVzdHRlc3QiLCBmYWxzZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsICBzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvcjsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RNYXRjaEFuY2hvcmVkU3RyaW5nKCkgewogICAgICAgIGdpdmVuUmVnZXgoIl50ZXN0JCIpOwoKICAgICAgICBleHBlY3RNYXRjaCgidGVzdHRlc3QiLCBmYWxzZSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>= matchFullString
             ? regexStr
             :</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPyBhbmNob3JSZWdleFN0cmluZyhyZWdleFN0cikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIE1hdGNoVHlwZQogICAgewogICAgICAgIENvbnRhaW5zLAogICAgICAgIE1hdGNoZXMKICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAogICAgcHVibGljIFJlZ2V4U3RyaW5nR2VuZXJhdG9yKFN0cmluZyByZWdleFN0ciwgYm9vbGVhbiBtYXRjaEZ1bGxTdHJpbmcpIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
