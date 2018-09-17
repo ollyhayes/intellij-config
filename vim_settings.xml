@@ -113,11 +113,11 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/SedolStringGenerator.java" timestamp="1537181552138">
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="55" />
-        <mark key="." line="57" column="55" />
-        <mark key="^" line="57" column="55" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/SedolStringGenerator.java" timestamp="1537187314534">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="62" />
+        <mark key="." line="58" column="60" />
+        <mark key="^" line="58" column="9" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/NumberUtils.java" timestamp="1536676278812">
         <mark key="'" line="23" column="40" />
@@ -164,11 +164,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" timestamp="1537181509158">
-        <mark key="'" line="159" column="35" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="15" column="17" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" timestamp="1537187319496">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="62" />
+        <mark key="." line="72" column="0" />
         <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1536929169400">
@@ -216,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="49" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSource.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/Utils/RegexStringGeneratorTests.java" />
       <jump line="80" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RegexStringGenerator.java" />
       <jump line="164" column="33" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="136" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
@@ -316,51 +314,53 @@
       <jump line="286" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" />
       <jump line="55" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
       <jump line="159" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
+      <jump line="39" column="17" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw new UnsupportedOperationException();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>throw new UnsupportedOperationException();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>negate</text>
+        <text>interesting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RDb250YWluQW5jaG9yZWRTdHJpbmcoKSB7CiAgICAgICAgZ2l2ZW5SZWdleCgiXnRlc3QkIik7CgogICAgICAgIGV4cGVjdE1hdGNoKCJ0ZXN0dGVzdCIsIGZhbHNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IExpbWl0aW5nSXRlcmFibGU8PihnZW5lcmF0ZUFsbFZhbHVlcygpLCAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsICBzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RNYXRjaEFuY2hvcmVkU3RyaW5nKCkgewogICAgICAgIGdpdmVuUmVnZXgoIl50ZXN0JCIpOwoKICAgICAgICBleHBlY3RNYXRjaCgidGVzdHRlc3QiLCBmYWxzZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsICBzdGFuZGFyZE5hbWVUb1N0cmluZ0dlbmVyYXRvcjsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGROb3RNYXRjaEFuY2hvcmVkU3RyaW5nKCkgewogICAgICAgIGdpdmVuUmVnZXgoIl50ZXN0JCIpOwoKICAgICAgICBleHBlY3RNYXRjaCgidGVzdHRlc3QiLCBmYWxzZSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>= matchFullString
             ? regexStr
             :</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPyBhbmNob3JSZWdleFN0cmluZyhyZWdleFN0cikK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIE1hdGNoVHlwZQogICAgewogICAgICAgIENvbnRhaW5zLAogICAgICAgIE1hdGNoZXMKICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIFJlZ2V4U3RyaW5nR2VuZXJhdG9yKFN0cmluZyByZWdleFN0ciwgYm9vbGVhbiBtYXRjaEZ1bGxTdHJpbmcpIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIFJlZ2V4U3RyaW5nR2VuZXJhdG9yKFN0cmluZyByZWdleFN0ciwgYm9vbGVhbiBtYXRjaEZ1bGxTdHJpbmcpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -382,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>negate</last-search>
+      <last-search>interesting</last-search>
       <last-offset />
-      <last-pattern>negate</last-pattern>
+      <last-pattern>interesting</last-pattern>
       <last-replace>endAnchor</last-replace>
       <last-substitute>startAnchor</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>array</entry>
         <entry>Lower</entry>
         <entry>granu</entry>
         <entry encoding="base64">XDxnaXZlbkJsYWNrbGlzdFw+</entry>
@@ -412,6 +411,7 @@
         <entry>merge</entry>
         <entry>convert</entry>
         <entry>negate</entry>
+        <entry>interesting</entry>
       </history-search>
       <history-cmd>
         <entry>CtrlPMRU</entry>
