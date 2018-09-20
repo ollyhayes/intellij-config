@@ -38,7 +38,10 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/Generate.java" timestamp="1537452495609" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/Generate.java" timestamp="1537452633310">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IRandomNumberGenerator.java" timestamp="1536674812363">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -70,7 +73,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537452323935" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RandomMergingIterable.java" timestamp="1537194132599">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="2" column="0" />
@@ -190,8 +192,8 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1536228171234">
-        <mark key="[" line="0" column="27" />
+      <file name="/fragment.java" timestamp="1537452643169">
+        <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
@@ -305,7 +307,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>com.scottlogic.deg.generator;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
