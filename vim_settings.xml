@@ -14,6 +14,12 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IConstraint.java" timestamp="1537454329797">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/CannedValuesFieldValueSource.java" timestamp="1535978651189">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="31" column="46" />
@@ -73,6 +79,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537454673664">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="73" />
+        <mark key="^" line="50" column="73" />
+        <mark key="." line="50" column="73" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RandomMergingIterable.java" timestamp="1537194132599">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="2" column="0" />
@@ -114,10 +127,12 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1537451489540">
-        <mark key="[" line="79" column="34" />
-        <mark key="]" line="79" column="34" />
-        <mark key="." line="79" column="34" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1537454834778">
+        <mark key="'" line="34" column="44" />
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="60" />
+        <mark key="^" line="51" column="60" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1537178888780">
         <mark key="'" line="18" column="40" />
@@ -157,6 +172,7 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1537454432036" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/LimitingFieldValueSource.java" timestamp="1535978637420">
         <mark key="[" line="38" column="28" />
         <mark key="]" line="38" column="52" />
@@ -204,9 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="3" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" />
-      <jump line="41" column="53" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecMerger.java" />
-      <jump line="18" column="40" filename="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" />
       <jump line="101" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="112" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="119" column="26" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
@@ -304,13 +317,16 @@
       <jump line="56" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" />
       <jump line="41" column="41" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" />
       <jump line="42" column="21" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" />
+      <jump line="80" column="49" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="34" column="44" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.scottlogic.deg.generator;</text>
+        <text>option</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>option</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -319,34 +335,34 @@
         <text>match</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKG9wdGlvbiAtPiB3YWxrKG9wdGlvbiwgYWNjdW11bGF0ZWRTcGVjKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyZWFtPFJvd1NwZWM+IHdhbGsoQ29uc3RyYWludE5vZGUgb3B0aW9uLCBSb3dTcGVjIGFjY3VtdWxhdGVkU3BlYykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChkZWNpc2lvbiAtPiB3YWxrKGRlY2lzaW9uLCBhY2N1bXVsYXRlZFNwZWMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChkZWNpc2lvbiAtPiB3YWxrKGRlY2lzaW9uLCBtZXJnZWRSb3dTcGVjKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFN0cmVhbTxSb3dTcGVjPiB3YWxrKFJ1bGVEZWNpc2lvblRyZWUgZGVjaXNpb25UcmVlLCBSb3dTcGVjIGFjY3VtdWxhdGVkU3BlYykgewogICAgICAgICAgICByZXR1cm4gd2FsayhkZWNpc2lvblRyZWUuZ2V0Um9vdE5vZGUoKSwgYWNjdW11bGF0ZWRTcGVjKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJlYW08Um93U3BlYz4gd2FsayhEZWNpc2lvblRyZWVQcm9maWxlIGRlY2lzaW9uVHJlZVByb2ZpbGUpIHsKICAgICAgICAgICAgcmV0dXJuIGRlY2lzaW9uVHJlZVByb2ZpbGUuZ2V0RGVjaXNpb25UcmVlcygpCiAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLnJlZHVjZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmVhbS5vZihnZXRJZGVudGl0eVJvd1NwZWMoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoYWNjLCBkZWNpc2lvblRyZWUpIC0+IGFjYy5mbGF0TWFwKGFSb3dTcGVjRnJvbUNhcnRlc2lhblByb2R1Y3RzU29GYXIgLT4gd2FsayhkZWNpc2lvblRyZWUsIGFSb3dTcGVjRnJvbUNhcnRlc2lhblByb2R1Y3RzU29GYXIpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmVhbTo6Y29uY2F0CiAgICAgICAgICAgICAgICAgICAgKTsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVkdWNlKAogICAgICAgICAgICAgICAgICAgICAgICBTdHJlYW0ub2YoYWNjdW11bGF0ZWRTcGVjKSwKICAgICAgICAgICAgICAgICAgICAgICAgKGFjYywgY29uc3RyYWludE5vZGUpIC0+IGFjYy5mbGF0TWFwKGFSb3dTcGVjRnJvbUNhcnRlc2lhblByb2R1Y3RzU29GYXIgLT4gd2Fsayhjb25zdHJhaW50Tm9kZSwgYVJvd1NwZWNGcm9tQ2FydGVzaWFuUHJvZHVjdHNTb0ZhcikpLAogICAgICAgICAgICAgICAgICAgICAgICBTdHJlYW06OmNvbmNhdAogICAgICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgQ29uc3RyYWludE5vZGUoCi8vICAgICAgICAgICAgcHJvZmlsZQovLyAgICAgICAgICAgICAgICAuZ2V0RGVjaXNpb25UcmVlcygpCi8vICAgICAgICAgICAgICAgIC5zdHJlYW0oKQovLyAgICAgICAgICAgICAgICAubWFwKFJ1bGVEZWNpc2lvblRyZWU6OmdldFJvb3ROb2RlKQovLyAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKG9wdGlvbiAtPiB3YWxrKG9wdGlvbiwgYWNjdW11bGF0ZWRTcGVjKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGNvbnN0cmFpbnQgaW5zdGFuY2VvZiBNYXRjaGVzU3RhbmRhcmRDb25zdHJhaW50KSB7CiAgICAgICAgICAgIHJldHVybiAoKE1hdGNoZXNTdGFuZGFyZENvbnN0cmFpbnQpIGNvbnN0cmFpbnQpLmZpZWxkOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGNvbnN0cmFpbnQgaW5zdGFuY2VvZiBNYXRjaGVzU3RhbmRhcmRDb25zdHJhaW50KSB7CiAgICAgICAgICAgIHJldHVybiAoKE1hdGNoZXNTdGFuZGFyZENvbnN0cmFpbnQpIGNvbnN0cmFpbnQpLmZpZWxkOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdSb290Tm9kZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBnZW5lcmF0b3IvMzItY29udGFpbmluZy1yZWdleAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
