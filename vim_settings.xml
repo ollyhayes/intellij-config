@@ -144,12 +144,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1537533486450">
-        <mark key="'" line="36" column="44" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1537178888780">
         <mark key="'" line="18" column="40" />
         <mark key="[" line="10" column="26" />
@@ -185,7 +179,7 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1537457301648">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1537536806166">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="53" />
         <mark key="." line="25" column="53" />
