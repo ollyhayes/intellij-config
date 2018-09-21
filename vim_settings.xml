@@ -82,7 +82,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537457402832">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537522172956">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -144,12 +144,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1537520745047">
-        <mark key="'" line="31" column="44" />
-        <mark key="[" line="103" column="67" />
-        <mark key="]" line="103" column="82" />
-        <mark key="^" line="103" column="82" />
-        <mark key="." line="103" column="82" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1537522228925">
+        <mark key="'" line="35" column="44" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1537178888780">
         <mark key="'" line="18" column="40" />
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>childFields</text>
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8PigpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>childFields</text>
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8PigpOw==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -353,35 +353,35 @@
       <register name="/" type="4">
         <text>match</text>
       </register>
-      <register name="0" type="4">
-        <text>(ConstraintNode)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPENvbnN0cmFpbnROb2RlLCBMaXN0PEZpZWxkPj4gZGVwZW5kZW50RmllbGRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBjaGlsZFJvd1NwZWNzOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIE1hcDxDb25zdHJhaW50Tm9kZSwgTGlzdDxGaWVsZD4+IGRlcGVuZGVudEZpZWxkcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGlzdDxGaWVsZD4gY2hpbGRGaWVsZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIE1hcDxDb25zdHJhaW50Tm9kZSwgTGlzdDxGaWVsZD4+IGRlcGVuZGVudEZpZWxkcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZmllbGRzCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBjaGlsZFJvd1NwZWNzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8RmllbGQsIExpc3Q8SUNvbnN0cmFpbnQ+PiBncm91cENvbnN0cmFpbnRzQnlGaWVsZAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFJvd1NwZWM+IHJvd1NwZWNzID0gZFRyZWVXYWxrZXIud2FsayhkVHJlZS5nZXRGaWVsZHMoKSwgcmVkdWNlUnVsZXMoZFRyZWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29uc3RyYWludE5vZGUgcmVkdWNlUnVsZXMoRGVjaXNpb25UcmVlUHJvZmlsZSBwcm9maWxlKSB7CiAgICAgICAgcmV0dXJuIENvbnN0cmFpbnROb2RlLm1lcmdlKAogICAgICAgICAgICBwcm9maWxlLmdldERlY2lzaW9uVHJlZXMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFJ1bGVEZWNpc2lvblRyZWU6OmdldFJvb3ROb2RlKQogICAgICAgICAgICAgICAgLml0ZXJhdG9yKCkKICAgICAgICApOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGlzdDxGaWVsZD4gY2hpbGRGaWVsZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSdWxlRGVjaXNpb25UcmVlIG91dHB1dFJ1bGUgPSB0ZXN0T3V0cHV0LmdldERlY2lzaW9uVHJlZXMoKS5pdGVyYXRvcigpLm5leHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZmllbGRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
