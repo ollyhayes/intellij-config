@@ -43,12 +43,12 @@
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537873255869">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537879062602">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="19" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="70" column="19" />
+        <mark key="[" line="64" column="55" />
+        <mark key="]" line="64" column="56" />
+        <mark key="^" line="64" column="56" />
+        <mark key="." line="64" column="56" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/ExpandingIterable.java" timestamp="1537194323449">
         <mark key="[" line="11" column="13" />
