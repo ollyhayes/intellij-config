@@ -172,11 +172,11 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreePartitioner.java" timestamp="1537804470168">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreePartitioner.java" timestamp="1537860203788">
         <mark key="[" line="84" column="38" />
-        <mark key="]" line="84" column="37" />
-        <mark key="." line="84" column="37" />
-        <mark key="^" line="84" column="37" />
+        <mark key="]" line="77" column="58" />
+        <mark key="." line="77" column="58" />
+        <mark key="^" line="77" column="58" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1537178185464">
         <mark key="'" line="232" column="4" />
