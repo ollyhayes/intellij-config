@@ -81,11 +81,12 @@
         <mark key="." line="73" column="46" />
         <mark key="^" line="73" column="46" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" timestamp="1537887012352">
-        <mark key="'" line="65" column="69" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" timestamp="1537891061855">
+        <mark key="'" line="75" column="69" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IFieldValueSource.java" timestamp="1535978402568">
         <mark key="[" line="8" column="29" />
@@ -394,7 +395,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>flat</text>
+        <text>concatonnated</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -409,28 +410,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGVuIGluIHRoaXMgbWV0aG9kIHdlCiAgICAgICAgLy8gc28gdGhpcyBuZWVkcyB0byBvcGVyYXRlIG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8Q29uc3RyYWludE5vZGUsIExpc3Q8RmllbGQ+PiBtYXBDCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgIFdlIG5lZWQgdG8gYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBFCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzbyB0aGlzIG5lZWRzIHRvIG9wZXJhdGUgb24gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzbyB0aGlzIG5lZWRzIHRvIG9wZXJhdGUgb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlLmdldERlY2lzaW9uVHJlZXMoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZvckVhY2gocnVsZSAtPiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBwYXJ0aXRpb25zVG91Y2hlZC5nZXQoMCkKICAgICAgICAgICAgICAgICAgICAgICAgOiBwYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8Q29uc3RyYWludE5vZGUsIExpc3Q8RmllbGQ+PiBtYXBDCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s///</text>
