@@ -55,8 +55,8 @@
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537973430877">
-        <mark key="'" line="56" column="7" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537974019734">
+        <mark key="'" line="9" column="56" />
         <mark key="[" line="58" column="57" />
         <mark key="]" line="58" column="69" />
         <mark key="." line="58" column="69" />
@@ -163,6 +163,7 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/MultiplexingDataBagSource.java" timestamp="1537974614600" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/CombiningFieldValueSource.java" timestamp="1535978668438">
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="56" />
@@ -294,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
-      <jump line="19" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
       <jump line="51" column="32" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/AtomicConstraintReaderLookup.java" />
       <jump line="1010" column="44" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="1022" column="55" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
@@ -394,6 +393,8 @@
       <jump line="53" column="7" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
       <jump line="78" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
       <jump line="74" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
+      <jump line="76" column="16" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="9" column="56" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,7 +407,7 @@
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>isna</text>
+        <text encoding="base64">XDxNdWx0aXBsZXhpbmdEYXRhQmFnU291cmNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWFwPE9iamVjdCwgTGlzdDxGaWVsZD4+IHJldCA9IGZpZWxkcwo=</text>
@@ -470,17 +471,16 @@
       </register>
     </registers>
     <search>
-      <last-search>isna</last-search>
+      <last-search encoding="base64">XDxNdWx0aXBsZXhpbmdEYXRhQmFnU291cmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>isna</last-pattern>
+      <last-pattern encoding="base64">XDxNdWx0aXBsZXhpbmdEYXRhQmFnU291cmNlXD4=</last-pattern>
       <last-replace />
       <last-substitute>\s*\(+\|-\)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/</entry>
         <entry>\/q</entry>
         <entry>\\q</entry>
         <entry>escape</entry>
@@ -500,6 +500,7 @@
         <entry>\s*\(+\|-\)</entry>
         <entry>^\s*\(+\|-\)</entry>
         <entry>isna</entry>
+        <entry encoding="base64">XDxNdWx0aXBsZXhpbmdEYXRhQmFnU291cmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>CtrlPMRU</entry>
