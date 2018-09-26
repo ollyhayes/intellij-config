@@ -20,11 +20,10 @@
         <mark key="." line="85" column="58" />
         <mark key="^" line="85" column="58" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldMapper.java" timestamp="1537948028558">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="30" />
-        <mark key="^" line="40" column="30" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldMapper.java" timestamp="1537948581291">
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/CannedValuesFieldValueSource.java" timestamp="1535978651189">
         <mark key="[" line="31" column="36" />
@@ -397,11 +396,11 @@
       <jump line="27" column="69" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Field</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyZWFtPD4KICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -413,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcm9vdE5vZGUuZ2V0QXRvbWljQ29uc3RyYWludHMoKS5zdHJlYW0oKS5tYXAoY29uc3RyYWludCAtPiAoT2JqZWN0KWNvbnN0cmFpbnQpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyZWFtPD4KICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUdXBsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgU3RyZWFtPE9iamVjdD4gYmxhaCA9IFN0cmVhbS5jb25jYXQoCiAgICAgICAgICAgIHJvb3ROb2RlLmdldEF0b21pY0NvbnN0cmFpbnRzKCkuc3RyZWFtKCkubWFwKGNvbnN0cmFpbnQgLT4gKE9iamVjdCljb25zdHJhaW50KSwKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0RGVjaXNpb25zKCkuc3RyZWFtKCkubWFwKGRlY2lzaW9uIC0+IChPYmplY3QpZGVjaXNpb24pCiAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb25jYXRlbmF0aW5nSXRlcmFibGU8T2JqZWN0PiBmaWVsZGVkT2JqZWN0cyA9IG5ldyBDb25jYXRlbmF0aW5nSXRlcmFibGU8T2JqZWN0PigKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0QXRvbWljQ29uc3RyYWludHMoKS5zdHJlYW0oKSwKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0RGVjaXNpb25zKCkKICAgICAgICApOwoK</text>
+        <text encoding="base64">CiAgICAgICAgU3RyZWFtPE9iamVjdD4gYmxhaCA9IFN0cmVhbS5jb25jYXQoCiAgICAgICAgICAgIHJvb3ROb2RlLmdldEF0b21pY0NvbnN0cmFpbnRzKCkuc3RyZWFtKCkubWFwKGNvbnN0cmFpbnQgLT4gKE9iamVjdCljb25zdHJhaW50KSwKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0RGVjaXNpb25zKCkuc3RyZWFtKCkubWFwKGRlY2lzaW9uIC0+IChPYmplY3QpZGVjaXNpb24pCiAgICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KGZpZWxkZWRPYmplY3RzLikK</text>
+        <text encoding="base64">ICAgICAgICBDb25jYXRlbmF0aW5nSXRlcmFibGU8T2JqZWN0PiBmaWVsZGVkT2JqZWN0cyA9IG5ldyBDb25jYXRlbmF0aW5nSXRlcmFibGU8T2JqZWN0PigKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0QXRvbWljQ29uc3RyYWludHMoKS5zdHJlYW0oKSwKICAgICAgICAgICAgcm9vdE5vZGUuZ2V0RGVjaXNpb25zKCkKICAgICAgICApOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KGZpZWxkZWRPYmplY3RzLikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW08TGlzdDxGaWVsZD4+IHNldHNPZkZpZWxkcyA9IFN0cmVhbS5jb25jYXQoCiAgICAgICAgICAgIHJvb3ROb2RlCiAgICAgICAgICAgICAgICAuZ2V0QXRvbWljQ29uc3RyYWludHMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpLAogICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoY29uc3RyYWludCAtPiBydWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW08TGlzdDxGaWVsZD4+IHNldHNPZkZpZWxkcyA9IFN0cmVhbS5jb25jYXQoCiAgICAgICAgICAgIHJvb3ROb2RlCiAgICAgICAgICAgICAgICAuZ2V0QXRvbWljQ29uc3RyYWludHMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpLAogICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s///</text>
