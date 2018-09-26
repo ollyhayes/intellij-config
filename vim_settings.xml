@@ -55,7 +55,7 @@
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537970503224">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1537971365805">
         <mark key="'" line="53" column="7" />
         <mark key="[" line="66" column="8" />
         <mark key="]" line="66" column="8" />
@@ -110,7 +110,6 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/DataBag.java" timestamp="1537970143851" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/FlatteningIterable.java" timestamp="1537194339040">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="40" />
@@ -288,7 +287,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1537970435664">
+      <file name="/fragment.java" timestamp="1537971339664">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
@@ -477,7 +476,7 @@
       <last-replace />
       <last-substitute>\s*\(+\|-\)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
