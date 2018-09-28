@@ -63,6 +63,7 @@
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/CommandLine.java" timestamp="1538122666809" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538120938856">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -328,6 +329,7 @@
         <mark key="." line="140" column="29" />
         <mark key="^" line="124" column="26" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/NullRestrictionsMerger.java" timestamp="1538123180637" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/LimitingIterable.java" timestamp="1535640231461">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="16" />
