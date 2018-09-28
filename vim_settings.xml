@@ -63,11 +63,12 @@
         <mark key="^" line="30" column="85" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538119513277">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="51" column="69" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538120318181">
+        <mark key="'" line="53" column="44" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="53" column="69" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RandomMergingIterable.java" timestamp="1537194132599">
         <mark key="'" line="45" column="0" />
@@ -117,17 +118,22 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionNode.java" timestamp="1538120218155">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeCollection.java" timestamp="1538119470571">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538063759701">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538120208971">
         <mark key="'" line="18" column="21" />
         <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/FlatteningIterable.java" timestamp="1537194339040">
@@ -136,8 +142,8 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1538062529098">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1538120308912">
+        <mark key="'" line="98" column="8" />
         <mark key="[" line="142" column="29" />
         <mark key="]" line="142" column="39" />
         <mark key="^" line="142" column="39" />
@@ -155,12 +161,12 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1538119503870">
-        <mark key="'" line="6" column="48" />
-        <mark key="[" line="48" column="99" />
-        <mark key="]" line="48" column="129" />
-        <mark key="." line="48" column="129" />
-        <mark key="^" line="48" column="129" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1538120326941">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="47" column="129" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AffectedFieldsFinder.java" timestamp="1537870067737">
         <mark key="[" line="24" column="13" />
@@ -179,6 +185,11 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" timestamp="1538120295455">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeProfile.java" timestamp="1538059925360">
         <mark key="[" line="8" column="25" />
@@ -210,17 +221,22 @@
         <mark key="." line="187" column="0" />
         <mark key="^" line="187" column="66" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/FieldMapper.java" timestamp="1538120312401">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" timestamp="1537880750864">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ConstraintNode.java" timestamp="1537968620899">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="30" column="18" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ConstraintNode.java" timestamp="1538120182531">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
         <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/Utils/RegexStringGeneratorTests.java" timestamp="1536161971865">
         <mark key="[" line="22" column="0" />
@@ -330,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2126" column="33" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
-      <jump line="116" column="10" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="121" column="37" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="271" column="37" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="1301" column="44" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
@@ -412,7 +426,6 @@
       <jump line="27" column="69" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
       <jump line="13" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/test.java" />
       <jump line="75" column="57" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldMapper.java" />
-      <jump line="53" column="7" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
       <jump line="78" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
       <jump line="74" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/TreePartitioner.java" />
       <jump line="76" column="16" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
@@ -430,13 +443,16 @@
       <jump line="534" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" />
       <jump line="42" column="21" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeToRowSpecsTests.java" />
       <jump line="6" column="48" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" />
+      <jump line="98" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" />
+      <jump line="53" column="44" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHdoZW4gZG8gd2UgZG8gdGhlIGRlY2lzaW9uIHRyZWUgbWVyZ2luZz8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLkRlY2lzaW9uVHJlZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>mergedTree</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -448,31 +464,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcGFydGl0aW9uZWRDb25zdHJhaW50cy5nZXRPckRlZmF1bHQoaWQsIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKSwKLy8gICAgICAgICAgICAgICAgcGFydGl0aW9uZWREZWNpc2lvbnMuZ2V0T3JEZWZhdWx0KGlkLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHdoZW4gZG8gd2UgZG8gdGhlIGRlY2lzaW9uIHRyZWUgbWVyZ2luZz8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLkRlY2lzaW9uVHJlZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNZXJnZSB0cmVlcyBoZXJlCiAgICAgICAgZmluYWwgRGVjaXNpb25UcmVlIG1lcmdlZFRyZWUgPSBudWxsOwoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLkNvbnN0cmFpbnROb2RlOwppbXBvcnQgY29tLnNjb3R0bG9naWMuZGVnLmdlbmVyYXRvci5kZWNpc2lvbnRyZWUuRGVjaXNpb25UcmVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLkNvbnN0cmFpbnROb2RlOwppbXBvcnQgY29tLnNjb3R0bG9naWMuZGVnLmdlbmVyYXRvci5kZWNpc2lvbnRyZWUuRGVjaXNpb25Ob2RlOwppbXBvcnQgY29tLnNjb3R0bG9naWMuZGVnLmdlbmVyYXRvci5kZWNpc2lvbnRyZWUuRGVjaXNpb25UcmVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjaXNpb25UcmVlcwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkK</text>
+        <text encoding="base64">ICAgIC8vIHdoZW4gZG8gd2UgZG8gdGhlIGRlY2lzaW9uIHRyZWUgbWVyZ2luZz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuUHJvZmlsZUZpZWxkczsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNZXJnZSB0cmVlcyBoZXJlCiAgICAgICAgZmluYWwgRGVjaXNpb25UcmVlIG1lcmdlZFRyZWUgPSBudWxsOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHNob3VsZFJldHVybkRlY2lzaW9uVHJlZVdpdGhDb3JyZWN0RGVzY3JpcHRpb24oKSB7CiAgICAgICAgTGlzdDxGaWVsZD4gaW5wdXRGaWVsZExpc3QgPSBBcnJheXMuYXNMaXN0KG5ldyBGaWVsZCgib25lIiksIG5ldyBGaWVsZCgidHdvIiksIG5ldyBGaWVsZCgidGhyZWUiKSk7CiAgICAgICAgSXNFcXVhbFRvQ29uc3RhbnRDb25zdHJhaW50IGNvbnN0cmFpbnQwID0gbmV3IElzRXF1YWxUb0NvbnN0YW50Q29uc3RyYWludChpbnB1dEZpZWxkTGlzdC5nZXQoMCksIDEwKTsKICAgICAgICBJc0dyZWF0ZXJUaGFuQ29uc3RhbnRDb25zdHJhaW50IGNvbnN0cmFpbnQxID0gbmV3IElzR3JlYXRlclRoYW5Db25zdGFudENvbnN0cmFpbnQoaW5wdXRGaWVsZExpc3QuZ2V0KDApLCAwKTsKICAgICAgICBNYXRjaGVzUmVnZXhDb25zdHJhaW50IGNvbnN0cmFpbnQyID0gbmV3IE1hdGNoZXNSZWdleENvbnN0cmFpbnQoaW5wdXRGaWVsZExpc3QuZ2V0KDEpLCBQYXR0ZXJuLmNvbXBpbGUoInN0YXJ0LiplbmQiKSk7CiAgICAgICAgUnVsZSB0ZXN0UnVsZSA9IG5ldyBSdWxlKCJ0ZXN0IiwgQXJyYXlzLmFzTGlzdChjb25zdHJhaW50MCwgY29uc3RyYWludDEsIGNvbnN0cmFpbnQyKSk7CiAgICAgICAgUHJvZmlsZSB0ZXN0SW5wdXQgPSBuZXcgUHJvZmlsZShpbnB1dEZpZWxkTGlzdCwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh0ZXN0UnVsZSkpOwoKICAgICAgICBEZWNpc2lvblRyZWVHZW5lcmF0b3IgdGVzdE9iamVjdCA9IG5ldyBEZWNpc2lvblRyZWVHZW5lcmF0b3IoKTsKCiAgICAgICAgRGVjaXNpb25UcmVlQ29sbGVjdGlvbiB0ZXN0T3V0cHV0ID0gdGVzdE9iamVjdC5hbmFseXNlKHRlc3RJbnB1dCk7CiAgICAgICAgRGVjaXNpb25UcmVlIG91dHB1dFJ1bGUgPSB0ZXN0T3V0cHV0LmdldERlY2lzaW9uVHJlZXMoKS5pdGVyYXRvcigpLm5leHQoKTsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVjaXNpb25UcmVlcwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VGhhdCgiUnVsZSBkZWNpc2lvbiB0cmVlIGhhcyBjb3JyZWN0IGRlc2NpcHRpb24iLCBvdXRwdXRSdWxlLgogICAgICAgICAgICAgICAgSXMuaXModGVzdFJ1bGUuZGVzY3JpcHRpb24pKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuUHJvZmlsZUZpZWxkczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHNob3VsZFJldHVybkRlY2lzaW9uVHJlZVdpdGhDb3JyZWN0RGVzY3JpcHRpb24oKSB7CiAgICAgICAgTGlzdDxGaWVsZD4gaW5wdXRGaWVsZExpc3QgPSBBcnJheXMuYXNMaXN0KG5ldyBGaWVsZCgib25lIiksIG5ldyBGaWVsZCgidHdvIiksIG5ldyBGaWVsZCgidGhyZWUiKSk7CiAgICAgICAgSXNFcXVhbFRvQ29uc3RhbnRDb25zdHJhaW50IGNvbnN0cmFpbnQwID0gbmV3IElzRXF1YWxUb0NvbnN0YW50Q29uc3RyYWludChpbnB1dEZpZWxkTGlzdC5nZXQoMCksIDEwKTsKICAgICAgICBJc0dyZWF0ZXJUaGFuQ29uc3RhbnRDb25zdHJhaW50IGNvbnN0cmFpbnQxID0gbmV3IElzR3JlYXRlclRoYW5Db25zdGFudENvbnN0cmFpbnQoaW5wdXRGaWVsZExpc3QuZ2V0KDApLCAwKTsKICAgICAgICBNYXRjaGVzUmVnZXhDb25zdHJhaW50IGNvbnN0cmFpbnQyID0gbmV3IE1hdGNoZXNSZWdleENvbnN0cmFpbnQoaW5wdXRGaWVsZExpc3QuZ2V0KDEpLCBQYXR0ZXJuLmNvbXBpbGUoInN0YXJ0LiplbmQiKSk7CiAgICAgICAgUnVsZSB0ZXN0UnVsZSA9IG5ldyBSdWxlKCJ0ZXN0IiwgQXJyYXlzLmFzTGlzdChjb25zdHJhaW50MCwgY29uc3RyYWludDEsIGNvbnN0cmFpbnQyKSk7CiAgICAgICAgUHJvZmlsZSB0ZXN0SW5wdXQgPSBuZXcgUHJvZmlsZShpbnB1dEZpZWxkTGlzdCwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh0ZXN0UnVsZSkpOwoKICAgICAgICBEZWNpc2lvblRyZWVHZW5lcmF0b3IgdGVzdE9iamVjdCA9IG5ldyBEZWNpc2lvblRyZWVHZW5lcmF0b3IoKTsKCiAgICAgICAgRGVjaXNpb25UcmVlQ29sbGVjdGlvbiB0ZXN0T3V0cHV0ID0gdGVzdE9iamVjdC5hbmFseXNlKHRlc3RJbnB1dCk7CiAgICAgICAgRGVjaXNpb25UcmVlIG91dHB1dFJ1bGUgPSB0ZXN0T3V0cHV0LmdldERlY2lzaW9uVHJlZXMoKS5pdGVyYXRvcigpLm5leHQoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/RuleDecisionTree/DecisionTree/</text>
