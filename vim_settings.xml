@@ -13,11 +13,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapperTests.java" timestamp="1538382147913">
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapperTests.java" timestamp="1538383975191">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="38" column="38" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IConstraint.java" timestamp="1537454329797">
         <mark key="[" line="22" column="57" />
@@ -474,11 +474,11 @@
       <jump line="13" column="6" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/IntegerFieldValueSourceTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>n</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -493,28 +493,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogV2UgbXVzdCBkZWxldGUgdGhlIG9sZCBwYXJ0aXRpb24ocykgd2hlbiB3ZSBjb21iaW5lIHRoZW0hCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogV2UgbXVzdCBkZWxldGUgdGhlIG9sZCBwYXJ0aXRpb24ocykgd2hlbiB3ZSBjb21iaW5lIHRoZW0hCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBnZW5lcmF0b3IvODEtYWRkLXBhcnRpdGlvbmluZy1pbnRlcmZhY2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uc2NvdHRsb2dpYy5kZWcuZ2VuZXJhdG9yLmRlY2lzaW9udHJlZS5UcmVlUGFydGl0aW9uZXI7Cj09PT09PT0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBnZW5lcmF0b3IvODEtYWRkLXBhcnRpdGlvbmluZy1pbnRlcmZhY2VzCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uc2NvdHRsb2dpYy5kZWcuZ2VuZXJhdG9yLmRlY2lzaW9udHJlZS5UcmVlUGFydGl0aW9uZXI7Cj09PT09PT0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGZpZWxkUGFydGl0aW9uZXIKPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBnZW5lcmF0b3IvODEtYWRkLXBhcnRpdGlvbmluZy1pbnRlcmZhY2VzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ObjectFields/ConstraintToFields/</text>
