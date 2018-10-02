@@ -83,7 +83,7 @@
         <mark key="." line="30" column="85" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/CommandLine.java" timestamp="1538122666809" />
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538405509786">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538482225038">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="26" column="57" />
         <mark key="]" line="26" column="71" />
