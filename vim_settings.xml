@@ -147,12 +147,12 @@
         <mark key="." line="14" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0-sources.jar!/org/hamcrest/Matchers.java" timestamp="1538471270737" />
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538484082533">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538484982408">
         <mark key="'" line="3" column="21" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="27" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="44" column="27" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/V3ProfileDTO.java" timestamp="1538121445346" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/FlatteningIterable.java" timestamp="1537194339040">
@@ -493,11 +493,11 @@
       <jump line="240" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZG90ID0gYW5hbHlzZWRQcm9maWxlLmdldE1lcmdlZFRyZWUoKS50b0RvdCgidHJlZSIsICIiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>partition</text>
       </register>
       <register name="-" type="4">
-        <text>DecisionTreeCollection</text>
+        <text>partition</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
