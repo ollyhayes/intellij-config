@@ -194,11 +194,12 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" timestamp="1538471770211">
-        <mark key="[" line="148" column="4" />
-        <mark key="]" line="149" column="102" />
-        <mark key="^" line="149" column="102" />
-        <mark key="." line="149" column="102" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" timestamp="1538554824907">
+        <mark key="'" line="151" column="33" />
+        <mark key="[" line="152" column="43" />
+        <mark key="]" line="152" column="43" />
+        <mark key="^" line="152" column="43" />
+        <mark key="." line="152" column="43" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/Visualise.java" timestamp="1538484170180">
         <mark key="[" line="51" column="0" />
@@ -376,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="71" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
-      <jump line="178" column="82" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
       <jump line="411" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
       <jump line="35" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RegexStringGenerator.java" />
@@ -476,49 +475,54 @@
       <jump line="209" column="30" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
       <jump line="306" column="88" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
       <jump line="240" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
+      <jump line="62" column="9" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
+      <jump line="151" column="33" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>partition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>partition</text>
+        <text>, &quot;D&quot;, &quot;E&quot;, &quot;F&quot;, &quot;G&quot;</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>equal</text>
+        <text encoding="base64">XDxzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9maWxlRmllbGRzIGYxID0gbmV3IFByb2ZpbGVGaWVsZHMoQXJyYXlzLmFzTGlzdChuZXcgRmllbGQoIkEiKSwgbmV3IEZpZWxkKCJCIikpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludCgiQSIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZG90ID0gYW5hbHlzZWRQcm9maWxlLmdldE1lcmdlZFRyZWUoKS50b0RvdCgidHJlZSIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludCgiQSIpLAogICAgICAgICAgICBjb25zdHJhaW50KCJCIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZ2VuZXJhdG9yL3RyZWUtdmlzdWFsaXNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJBIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJCIikKICAgICAgICAgICAgKSwKICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJEIikKICAgICAgICAgICAgKSwKICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJFIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9Eb3QoU3RyaW5nIGdyYXBoTmFtZSwgU3RyaW5nIGRlc2NyaXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQo=</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRvRG90KExpc3Q8RGVjaXNpb25UcmVlPiB0cmVlcywgU3RyaW5nIGdyYXBoTmFtZSwgU3RyaW5nIGRlc2NyaXB0aW9uKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJCIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJEIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB3cml0ZVRyZWVHcmFwaHMoTGlzdDxEZWNpc2lvblRyZWU+IHBhcnRpdGlvbmVkVHJlZSwgUGF0aCBkaXJlY3RvcnkpIHsKLy8gICAgICAgIFN0cmluZyBkb3QgPSBhbmFseXNlZFByb2ZpbGUuZ2V0TWVyZ2VkVHJlZSgpLnRvRG90KCJ0cmVlIiwgIiIpOwogICAgICAgIGZpbmFsIFN0cmluZyBkb3QgPSBEZWNpc2lvblRyZWUudG9Eb3QocGFydGl0aW9uZWRUcmVlLCAiIiwgIiIpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICB0cnkgKFByaW50V3JpdGVyIG91dCA9IG5ldyBQcmludFdyaXRlcihTdHJpbmcuZm9ybWF0KCIlcy90cmVlLmd2IiwgZGlyZWN0b3J5LnRvU3RyaW5nKCkgKSkpIHsKICAgICAgICAgICAgICAgIG91dC5wcmludGxuKGRvdCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBleCkgewogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZXguZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBvbmx5IG9uZSBwYXJ0aXRpb24KICAgICAgICAvLyBwYXNzIGluIGEgdHJlZSB3aXRoIGZpZWxkcyB0aGF0IGFyZSBub3QgY29uc3RyYWluZWQKICAgICAgICAvLyBkbyB3ZSBuZWVkIHRvIHBhc3MgaW4gYSBtb2NrIGV2ZXI/IEkgZG9uJ3Qga25vdwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9nZW5lcmF0b3IvdHJlZS12aXN1YWxpc2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -552,17 +556,16 @@
       </register>
     </registers>
     <search>
-      <last-search>equal</last-search>
+      <last-search encoding="base64">XDxzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>equal</last-pattern>
+      <last-pattern encoding="base64">XDxzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9uc1w+</last-pattern>
       <last-replace>ConstraintToFields</last-replace>
       <last-substitute>ObjectFields</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>negate</entry>
         <entry>interesting</entry>
         <entry>valid</entry>
         <entry>matches</entry>
@@ -582,6 +585,7 @@
         <entry>contai</entry>
         <entry>of(</entry>
         <entry>equal</entry>
+        <entry encoding="base64">XDxzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>CtrlPMRU</entry>
