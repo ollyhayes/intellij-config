@@ -181,11 +181,11 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" timestamp="1538578742626">
-        <mark key="[" line="193" column="21" />
-        <mark key="]" line="188" column="26" />
-        <mark key="." line="188" column="26" />
-        <mark key="^" line="193" column="20" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" timestamp="1538580570629">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="8" />
+        <mark key="." line="295" column="8" />
+        <mark key="^" line="149" column="80" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeProfile.java" timestamp="1538059925360">
         <mark key="[" line="8" column="25" />
@@ -272,12 +272,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapper.java" timestamp="1538570386902">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapper.java" timestamp="1538581359606">
         <mark key="'" line="15" column="29" />
-        <mark key="[" line="50" column="50" />
-        <mark key="]" line="50" column="52" />
-        <mark key="." line="50" column="52" />
-        <mark key="^" line="50" column="52" />
+        <mark key="[" line="71" column="71" />
+        <mark key="]" line="71" column="89" />
+        <mark key="^" line="71" column="89" />
+        <mark key="." line="71" column="89" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1536141980615">
         <mark key="[" line="28" column="29" />
@@ -376,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/RandomMergingIterable.java" />
       <jump line="49" column="45" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintFieldSniffer.java" />
       <jump line="19" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
       <jump line="187" column="23" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/IsinStringGenerator.java" />
@@ -476,52 +475,53 @@
       <jump line="31" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" />
       <jump line="299" column="11" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" />
       <jump line="244" column="15" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" />
+      <jump line="211" column="17" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQgLT4gY29uc3RyYWludCwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>constraintSniffer.detectField(constraint)</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>partitionindex</text>
+        <text encoding="base64">XDxzdHJlYW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJ0aXRpb25zLmFkZFBhcnRpdGlvbihjdXJyZW50UGFydGl0aW9uLCBmaWVsZHNUb1BhcnRpdGlvbiwgY29uc3RyYWludCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU2V0PEZpZWxkPiBmaWVsZHMgPSBnZXRGcm9tQWxsUGFydGl0aW9ucyhwYXJ0aXRpb25zLCBwYXJ0aXRpb24gLT4gcGFydGl0aW9uLmZpZWxkcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGFydGl0aW9uKFVVSUQgaWQsKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQgLT4gY29uc3RyYWludCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzVG9QYXJ0aXRpbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoY29uc3RyYWludCAtPiBuZXcgQ29uc3RyYWludFRvRmllbGRzKGNvbnN0cmFpbnQsICkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIE1hcDxVVUlELCBQYXJ0aXRpb24+IGlkVG9QYXJ0aXRpb24gPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFkZFBhcnRpdGlvbihpbnQgcGFydGl0aW9uSWQsIFNldDxGaWVsZD4gZmllbGRzLCBTZXQ8SUNvbnN0cmFpbnQ+IGNvbnN0cmFpbnRzKSB7CiAgICAgICAgICAgICAgICBwYXJ0aXRpb25JbmRleC5hZGRQYXJ0aXRpb24ocGFydGl0aW9uSWQsIGZpZWxkcywgY29uc3RyYWludHMsIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgdm9pZCBtZXJnZVBhcnRpdGlvbnMoU2V0PEludGVnZXI+IHBhcnRpdGlvbnMsIFNldDxGaWVsZD4gZmllbGRzLCBTZXQ8SUNvbnN0cmFpbnQ+IGNvbnN0cmFpbnRzKSB7CiAgICAgICAgICAgICAgICBwYXJ0aXRpb25JbmRleC5tZXJnZVBhcnRpdGlvbnMocGFydGl0aW9ucywgZmllbGRzLCBjb25zdHJhaW50cywgbnVsbCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBTZXQ8RmllbGQ+IGdldEZpZWxkcyhpbnQgcGFydGl0aW9uSWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJ0aXRpb25JbmRleC5nZXRGaWVsZHMocGFydGl0aW9uSWQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgaW50IGdldFBhcnRpdGlvbklkKEZpZWxkIGZpZWxkKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gcGFydGl0aW9uSW5kZXguZ2V0UGFydGl0aW9uSWQoZmllbGQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBwYXJ0aXRpb25Db3VudCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLy8gaWYgdGhlcmUgYXJlbid0IGFueSwgd2Ugc3RhcnQgYSBuZXcgcGFydGl0aW9uLAovLyAgICAgICAgICAgICAgICAvLyBvdGhlcndpc2Ugd2UgZ2F0aGVyIHVwIGFsbCB0aGUgZmllbGRzIGluIHRoZSB0b3VjaGVkIHBhcnRpdGlvbnMgYW5kIG1vdmUgdGhlbSB0byBhIG5ldyBvbmUKLy8gICAgICAgICAgICAgICAgZmluYWwgU2V0PEZpZWxkPiBmaWVsZHNUb1BhcnRpdGlvbiA9IGV4aXN0aW5nSW50ZXJzZWN0aW5nUGFydGl0aW9ucy5zaXplKCkgPT0gMAovLyAgICAgICAgICAgICAgICAgICAgPyBmaWVsZHMKLy8gICAgICAgICAgICAgICAgICAgIDogU3RyZWFtLmNvbmNhdCgKLy8gICAgICAgICAgICAgICAgICAgICAgICBmaWVsZHMuc3RyZWFtKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgZXhpc3RpbmdJbnRlcnNlY3RpbmdQYXJ0aXRpb25zCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChpZCAtPiBwYXJ0aXRpb25zLmdldEZpZWxkcyhpZCkuc3RyZWFtKCkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFVVSUQgcGFydGl0aW9uSWQgPSBwYXJ0aXRpb25zLmFkZFBhcnRpdGlvbihmaWVsZHMsIGNvbnN0cmFpbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgYWRkUGFydGl0aW9uKGludCBwYXJ0aXRpb25JZCwgU2V0PEZpZWxkPiBmaWVsZHMsIFNldDxEZWNpc2lvbk5vZGU+IGRlY2lzaW9ucykgewogICAgICAgICAgICAgICAgcGFydGl0aW9uSW5kZXguYWRkUGFydGl0aW9uKHBhcnRpdGlvbklkLCBmaWVsZHMsIG51bGwsIGRlY2lzaW9ucyk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG1lcmdlUGFydGl0aW9ucyhTZXQ8SW50ZWdlcj4gcGFydGl0aW9ucywgU2V0PEZpZWxkPiBmaWVsZHMsIFNldDxEZWNpc2lvbk5vZGU+IGRlY2lzaW9ucykgewogICAgICAgICAgICAgICAgcGFydGl0aW9uSW5kZXgubWVyZ2VQYXJ0aXRpb25zKHBhcnRpdGlvbnMsIGZpZWxkcywgbnVsbCwgZGVjaXNpb25zKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIFNldDxGaWVsZD4gZ2V0RmllbGRzKGludCBwYXJ0aXRpb25JZCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHBhcnRpdGlvbkluZGV4LmdldEZpZWxkcyhwYXJ0aXRpb25JZCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBpbnQgZ2V0UGFydGl0aW9uSWQoRmllbGQgZmllbGQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJ0aXRpb25JbmRleC5nZXRQYXJ0aXRpb25JZChmaWVsZCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQ29sbGVjdGlvbjxQYXJ0aXRpb24+IGdldFBhcnRpdGlvbnMoKSB7CiAgICAgICAgICAgIHJldHVybiBpZFRvUGFydGl0aW9uLnZhbHVlcygpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -555,17 +555,16 @@
       </register>
     </registers>
     <search>
-      <last-search>partitionindex</last-search>
+      <last-search encoding="base64">XDxzdHJlYW1cPg==</last-search>
       <last-offset />
-      <last-pattern>partitionindex</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJlYW1cPg==</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>matches</entry>
         <entry>sedol</entry>
         <entry>match</entry>
         <entry>get</entry>
@@ -585,6 +584,7 @@
         <entry encoding="base64">XDxzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9uc1w+</entry>
         <entry>A</entry>
         <entry>partitionindex</entry>
+        <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>call SetupExecuteWindow()</entry>
