@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSource.java" timestamp="1536049647904">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/NullTreeImplementer.java" timestamp="1538124689629">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapperTests.java" timestamp="1538647869998">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="198" column="71" />
@@ -73,11 +63,6 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="51" column="4" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/IRandomNumberGenerator.java" timestamp="1536674812363">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" timestamp="1536676068707">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -101,11 +86,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/ExpandingIterable.java" timestamp="1537194323449">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RuleFieldMapper.java" timestamp="1537947845205">
         <mark key="[" line="31" column="17" />
@@ -131,11 +111,6 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="39" />
         <mark key="^" line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/reducer/ConstraintReducer.java" timestamp="1537516423770">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/schemas/src/main/java/com/scottlogic/deg/schemas/v3/AtomicConstraintType.java" timestamp="1537178888780">
         <mark key="'" line="18" column="40" />
@@ -285,11 +260,6 @@
         <mark key="^" line="32" column="10" />
         <mark key="." line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/Utils/RegexStringGeneratorTests.java" timestamp="1536161971865">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536847797177">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="13" column="8" />
@@ -349,11 +319,6 @@
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" timestamp="1538663310911">
         <mark key="'" line="554" column="42" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecMerger.java" timestamp="1536674981663">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldPartitioner.java" timestamp="1537871736343">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -366,11 +331,6 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
         <mark key="^" line="5" column="75" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/PartitionTree.java" timestamp="1538037023006">
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="52" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/LimitingFieldValueSource.java" timestamp="1535978637420">
         <mark key="[" line="38" column="28" />
@@ -403,11 +363,6 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/Isin.java" timestamp="1537181461740">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/partitioning/TreePartitioner.java" timestamp="1538648119968">
         <mark key="'" line="92" column="4" />
         <mark key="[" line="148" column="0" />
@@ -420,11 +375,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="270" column="11" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1538639383296">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
       </file>
     </filemarks>
     <jumps>
