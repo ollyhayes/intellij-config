@@ -409,12 +409,12 @@
         <mark key="^" line="90" column="4" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1538659421247">
-        <mark key="'" line="187" column="25" />
-        <mark key="[" line="265" column="5" />
-        <mark key="]" line="268" column="7" />
-        <mark key="." line="268" column="7" />
-        <mark key="^" line="268" column="7" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1538662437312">
+        <mark key="'" line="255" column="37" />
+        <mark key="[" line="268" column="4" />
+        <mark key="]" line="263" column="11" />
+        <mark key="^" line="263" column="11" />
+        <mark key="." line="268" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1538639383296">
         <mark key="[" line="0" column="6" />
@@ -423,9 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
-      <jump line="11" column="30" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
-      <jump line="0" column="4" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
       <jump line="118" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
       <jump line="10" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
       <jump line="112" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/test.java" />
@@ -523,96 +520,135 @@
       <jump line="110" column="47" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
       <jump line="114" column="48" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
       <jump line="119" column="48" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
+      <jump line="154" column="15" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" />
+      <jump line="250" column="8" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" />
+      <jump line="255" column="37" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFRPRE86IHdyaXRlIHRlc3QgZm9yIHRoaXMKICAgICAgICAgICAgLy8gaWYgcGFydGl0aW9ucyBhcmUgYmVpbmcgbWVyZ2VkLCByZW1vdmUgdGhlIG9sZCBvbmVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>Trees = null;
+    }
+
+    p</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>null\(</text>
+        <text encoding="base64">XDxjb25zdHJhaW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBTZXQ8SUNvbnN0cmFpbnQ+IGdldEF0b21pY0NvbnN0cmFpbnRzKCkgewogICAgICAgICAgICByZXR1cm4gY29uc3RyYWludHMKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChSb290TGV2ZWxDb25zdHJhaW50OjpnZXRBdG9taWNDb25zdHJhaW50KQogICAgICAgICAgICAgICAgLmZpbHRlcihPYmplY3RzOjppc051bGwpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJBIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJCIikKICAgICAgICAgICAgKSwKICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJEIikKICAgICAgICAgICAgKSwKICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJFIiksCiAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgKQogICAgICAgICkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFRPRE86IHdyaXRlIHRlc3QgZm9yIHRoaXMKICAgICAgICAgICAgLy8gaWYgcGFydGl0aW9ucyBhcmUgYmVpbmcgbWVyZ2VkLCByZW1vdmUgdGhlIG9sZCBvbmVzCg==</text>
+      <register name="1" type="4">
+        <text>Trees = null;
+    }
+
+    p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgT2JqZWN0Lm51Cg==</text>
+        <text encoding="base64">ICAgICAgICByb290Tm9kZSA9IG51bGw7CiAgICAgICAgZmllbGRzID0gbmV3IFByb2ZpbGVGaWVsZHMoQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29uc3RyYWludE5vZGUgcm9vdE5vZGU7CiAgICBwcml2YXRlIFByb2ZpbGVGaWVsZHMgZmllbGRzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChmaWVsZCAtPiBuZXcgUGFydGl0aW9uKAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbkZpZWxkcygiQSIsICJCIiwgIkMiLCAiRCIsICJFIiwgIkYiKTsKICAgICAgICBnaXZlblJvb3ROb2RlKGNvbnN0cmFpbnQoCiAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiQSIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiQyIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiRCIpCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgiRiIpCiAgICAgICAgICAgICkKICAgICAgICApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgIHZvaWQgZ2l2ZW5GaWVsZHMoU3RyaW5nLi4uIGZpZWxkTmFtZXMpIHsKICAgICAgICBmaWVsZHMgPSBuZXcgUHJvZmlsZUZpZWxkcygKICAgICAgICAgICAgQXJyYXlzLnN0cmVhbShmaWVsZE5hbWVzKQogICAgICAgICAgICAgICAgLm1hcChGaWVsZDo6bmV3KQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwogICAgfQoKICAgIHZvaWQgZ2l2ZW5Sb290Tm9kZShDb25zdHJhaW50Tm9kZSByb290Tm9kZSkgewogICAgICAgIHRoaXMucm9vdE5vZGUgPSByb290Tm9kZTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFBhcnRpdGlvbkluZGV4IHsKICAgICAgICBwcml2YXRlIGZpbmFsIE1hcDxVVUlELCBQYXJ0aXRpb24+IGlkVG9QYXJ0aXRpb24gPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgcHJpdmF0ZSBmaW5hbCBNYXA8RmllbGQsIFBhcnRpdGlvbj4gZmllbGRzVG9QYXJ0aXRpb24gPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIFVVSUQgYWRkUGFydGl0aW9uKFNldDxGaWVsZD4gZmllbGRzLCBTZXQ8Um9vdExldmVsQ29uc3RyYWludD4gY29uc3RyYWludHMpIHsKICAgICAgICAgICAgZmluYWwgUGFydGl0aW9uIG5ld1BhcnRpdGlvbiA9IG5ldyBQYXJ0aXRpb24oCiAgICAgICAgICAgICAgICBqYXZhLnV0aWwuVVVJRC5yYW5kb21VVUlEKCksCiAgICAgICAgICAgICAgICBmaWVsZHMsCiAgICAgICAgICAgICAgICBjb25zdHJhaW50cyk7CgogICAgICAgICAgICBpZFRvUGFydGl0aW9uLnB1dChuZXdQYXJ0aXRpb24uaWQsIG5ld1BhcnRpdGlvbik7CgogICAgICAgICAgICBmb3IgKEZpZWxkIGZpZWxkIDogZmllbGRzKQogICAgICAgICAgICAgICAgZmllbGRzVG9QYXJ0aXRpb24ucHV0KGZpZWxkLCBuZXdQYXJ0aXRpb24pOwoKICAgICAgICAgICAgcmV0dXJuIG5ld1BhcnRpdGlvbi5pZDsKICAgICAgICB9CgogICAgICAgIFVVSUQgbWVyZ2VQYXJ0aXRpb25zKFNldDxVVUlEPiBpZHMpIHsKICAgICAgICAgICAgZmluYWwgU2V0PFBhcnRpdGlvbj4gcGFydGl0aW9ucyA9IGlkcwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGlkVG9QYXJ0aXRpb246OmdldCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CgogICAgICAgICAgICBmaW5hbCBTZXQ8RmllbGQ+IGZpZWxkcyA9IGdldEZyb21BbGxQYXJ0aXRpb25zKHBhcnRpdGlvbnMsIHBhcnRpdGlvbiAtPiBwYXJ0aXRpb24uZmllbGRzKTsKICAgICAgICAgICAgZmluYWwgU2V0PFJvb3RMZXZlbENvbnN0cmFpbnQ+IGNvbnN0cmFpbnRzID0gZ2V0RnJvbUFsbFBhcnRpdGlvbnMocGFydGl0aW9ucywgcGFydGl0aW9uIC0+IHBhcnRpdGlvbi5jb25zdHJhaW50cyk7CgogICAgICAgICAgICBmaW5hbCBQYXJ0aXRpb24gbmV3UGFydGl0aW9uID0gbmV3IFBhcnRpdGlvbigKICAgICAgICAgICAgICAgIGphdmEudXRpbC5VVUlELnJhbmRvbVVVSUQoKSwKICAgICAgICAgICAgICAgIGZpZWxkcywKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnRzKTsKICAgICAgICAgICAgaWRUb1BhcnRpdGlvbi5wdXQobmV3UGFydGl0aW9uLmlkLCBuZXdQYXJ0aXRpb24pOwogICAgICAgICAgICBmaWVsZHMuZm9yRWFjaChmaWVsZCAtPiBmaWVsZHNUb1BhcnRpdGlvbi5wdXQoZmllbGQsIG5ld1BhcnRpdGlvbikpOwoKICAgICAgICAgICAgaWRzLmZvckVhY2goaWRUb1BhcnRpdGlvbjo6cmVtb3ZlKTsKCiAgICAgICAgICAgIHJldHVybiBuZXdQYXJ0aXRpb24uaWQ7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIDxUPiBTZXQ8VD4gZ2V0RnJvbUFsbFBhcnRpdGlvbnMoU2V0PFBhcnRpdGlvbj4gcGFydGl0aW9ucywgRnVuY3Rpb248UGFydGl0aW9uLCBTZXQ8VD4+IGdldHRlcikgewogICAgICAgICAgICByZXR1cm4gcGFydGl0aW9ucwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChwYXJ0aXRpb24gLT4gZ2V0dGVyLmFwcGx5KHBhcnRpdGlvbikuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogICAgICAgIH0KCiAgICAgICAgVVVJRCBnZXRQYXJ0aXRpb25JZChGaWVsZCBmaWVsZCkgewogICAgICAgICAgICByZXR1cm4gZmllbGRzVG9QYXJ0aXRpb24uY29udGFpbnNLZXkoZmllbGQpCiAgICAgICAgICAgICAgICA/IGZpZWxkc1RvUGFydGl0aW9uLmdldChmaWVsZCkuaWQKICAgICAgICAgICAgICAgIDogbnVsbDsKICAgICAgICB9CgogICAgICAgIENvbGxlY3Rpb248UGFydGl0aW9uPiBnZXRQYXJ0aXRpb25zKCkgewogICAgICAgICAgICByZXR1cm4gaWRUb1BhcnRpdGlvbi52YWx1ZXMoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
       <register name="z" type="4">
         <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
           <key char="99" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
           <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
         </keys>
       </register>
     </registers>
     <search>
-      <last-search>null\(</last-search>
+      <last-search encoding="base64">XDxjb25zdHJhaW50c1w+</last-search>
       <last-offset />
-      <last-pattern>null\(</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdHJhaW50c1w+</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\s*(+|-)</entry>
         <entry>\s</entry>
         <entry>\s*</entry>
         <entry>\s*\(+\|-\)</entry>
@@ -632,6 +668,7 @@
         <entry>null</entry>
         <entry>null(</entry>
         <entry>null\(</entry>
+        <entry encoding="base64">XDxjb25zdHJhaW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>call SetupExecuteWindow()</entry>
