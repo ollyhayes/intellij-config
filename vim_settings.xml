@@ -119,12 +119,12 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitioner.java" timestamp="1538649629653">
-        <mark key="'" line="92" column="4" />
-        <mark key="[" line="117" column="38" />
-        <mark key="]" line="117" column="39" />
-        <mark key="^" line="117" column="39" />
-        <mark key="." line="117" column="39" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitioner.java" timestamp="1538657061237">
+        <mark key="'" line="94" column="4" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538649132323">
         <mark key="[" line="8" column="4" />
