@@ -347,10 +347,7 @@
         <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" timestamp="1538663310911">
-        <mark key="'" line="493" column="42" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="'" line="554" column="42" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/FieldSpecMerger.java" timestamp="1536674981663">
         <mark key="[" line="140" column="0" />
