@@ -16,12 +16,6 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/OrConstraint.java" timestamp="1538992050051">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/test.java" timestamp="1537950242245">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="22" />
@@ -63,11 +57,11 @@
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/ConstraintToFieldMapper.java" timestamp="1538991639665">
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/ConstraintToFieldMapper.java" timestamp="1538994304684">
+        <mark key="[" line="34" column="68" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" timestamp="1536676068707">
         <mark key="[" line="51" column="0" />
@@ -81,12 +75,6 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/StringHasLengthConstraint.java" timestamp="1538992077667">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/restrictions/RestrictionTest.java" timestamp="1537177051735">
         <mark key="[" line="30" column="80" />
         <mark key="]" line="30" column="85" />
@@ -98,13 +86,6 @@
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1538744149811">
-        <mark key="'" line="86" column="30" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="102" column="28" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ITreePartitioner.java" timestamp="1538124601299">
         <mark key="[" line="5" column="77" />
@@ -167,10 +148,10 @@
         <mark key="^" line="14" column="53" />
         <mark key="." line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitioner.java" timestamp="1538989211561">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitioner.java" timestamp="1538993701225">
         <mark key="'" line="145" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="61" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="84" column="94" />
       </file>
@@ -293,9 +274,6 @@
         <mark key="." line="41" column="4" />
         <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsEqualToConstantConstraint.java" timestamp="1538992089300">
-        <mark key="[" line="18" column="5" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536847797177">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="13" column="8" />
@@ -362,8 +340,11 @@
         <mark key="." line="59" column="3" />
         <mark key="^" line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/NotConstraint.java" timestamp="1538992030787">
-        <mark key="[" line="14" column="5" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/MainConstraintReader.java" timestamp="1538993070263">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldPartitioner.java" timestamp="1537871736343">
         <mark key="[" line="26" column="0" />
@@ -535,11 +516,11 @@
       <jump line="87" column="30" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>duplicated</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>duplicated</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -547,20 +528,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdHJhaW50c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGFydGl0aW9uZWRUcmVlcwogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcih0cmVlIC0+IHRyZWUuZ2V0Um9vdE5vZGUoKS5nZXREZWNpc2lvbnMoKS5zaXplKCkgPCA0MDAp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8TWFwLkVudHJ5PFJvb3RMZXZlbENvbnN0cmFpbnQsIEludGVnZXI+PiBkdXBsaWNhdGVkQ29uc3RyYWludHMgPSBjb25zdHJhaW50Q291bnRlcgogICAgICAgICAgICAuZW50cnlTZXQoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihrdnAgLT4ga3ZwLmdldFZhbHVlKCkgPiAwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHJldHVybiBmYWxzZTsKICAgICAgICBNYXRjaGVzU3RhbmRhcmRDb25zdHJhaW50IHRoYXQgPSAoTWF0Y2hlc1N0YW5kYXJkQ29uc3RyYWludCkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZmllbGQsIHRoYXQuZmllbGQpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKHN0YW5kYXJkLCB0aGF0LnN0YW5kYXJkKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgcmV0dXJuIE9iamVjdHMuaGFzaChmaWVsZCwgc3RhbmRhcmQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnN0cmFpbnRDb3VudGVyLmNvbnRhaW5zS2V5KGNvbnN0cmFpbnQpKQogICAgICAgICAgICAgICAgLgogICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZHRvLmlzICE9IG51bGwpIHsKICAgICAgICAgICAgSUNvbnN0cmFpbnRSZWFkZXIgc3ViUmVhZGVyID0gdGhpcy5hdG9taWNDb25zdHJhaW50UmVhZGVyTG9va3VwLmdldEJ5VHlwZUNvZGUoZHRvLmlzKTsKCiAgICAgICAgICAgIGlmIChzdWJSZWFkZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQcm9maWxlRXhjZXB0aW9uKCJDb3VsZG4ndCByZWNvZ25pc2UgY29uc3RyYWludCB0eXBlIGZyb20gRFRPOiAiICsgZHRvLmlzKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHN1YlJlYWRlci5hcHBseShkdG8sIGZpZWxkcyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
@@ -569,16 +550,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHJldHVybiBmYWxzZTsKICAgICAgICBNYXRjaGVzU3RhbmRhcmRDb25zdHJhaW50IHRoYXQgPSAoTWF0Y2hlc1N0YW5kYXJkQ29uc3RyYWludCkgbzsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoZmllbGQsIHRoYXQuZmllbGQpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKHN0YW5kYXJkLCB0aGF0LnN0YW5kYXJkKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgcmV0dXJuIE9iamVjdHMuaGFzaChmaWVsZCwgc3RhbmRhcmQpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
