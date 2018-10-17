@@ -60,6 +60,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1539772730273" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ITreePartitioner.java" timestamp="1538124601299">
         <mark key="[" line="5" column="77" />
         <mark key="]" line="5" column="75" />
@@ -77,7 +78,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1539702084802">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1539772606320">
         <mark key="[" line="71" column="76" />
         <mark key="]" line="73" column="46" />
         <mark key="." line="73" column="46" />
