@@ -252,11 +252,11 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1539620446909">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1539868648611">
+        <mark key="[" line="90" column="42" />
+        <mark key="]" line="90" column="42" />
+        <mark key="." line="90" column="49" />
+        <mark key="^" line="90" column="32" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsGreaterThanOrEqualToConstantConstraint.java" timestamp="1538991892626">
         <mark key="[" line="18" column="5" />
@@ -415,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C:\Program Files\Java\jdk1.8.0_181\bin\java.exe&quot; &quot;-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.1\lib\idea_rt.jar=50436:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.1\bin&quot; -Dfile.encoding=UTF-8 -classpath &quot;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Users\ohayes\tools\data-engineering-generator\generator\target\classes;C:\Users\ohayes\tools\data-engineering-generator\schemas\target\classes;C:\Users\ohayes\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\ohayes\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.6\jackson-core-2.9.6.jar;C:\Users\ohayes\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.6\jackson-annotations-2.9.6.jar;C:\Users\ohayes\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.6\jackson-databind-2.9.6.jar;C:\Users\ohayes\.m2\repository\org\apache\commons\commons-csv\1.5\commons-csv-1.5.jar&quot; com.scottlogic.deg.generator.App generate C:\Users\ohayes\Documents\generator\profile.json C:\Users\ohayes\Documents\generator\output.csv</text>
+        <text>option</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>option</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -430,34 +430,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YUJhZyAtPiBuZXcgR2VuZXJhdGVkT2JqZWN0KAogICAgICAgICAgICAgICAgcHJvZmlsZS5maWVsZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAubWFwKGRhdGFCYWc6OmdldFZhbHVlQW5kRm9ybWF0KQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gIigiICsgY29uc3RyYWludCArICIpIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TWFwLkVudHJ5PFJvb3RMZXZlbENvbnN0cmFpbnQsIEludGVnZXI+PiBkdXBsaWNhdGVkQ29uc3RyYWludHMgPSBjb25zdHJhaW50Q291bnRlcgogICAgICAgICAgICAuZW50cnlTZXQoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihrdnAgLT4ga3ZwLmdldFZhbHVlKCkgPiAwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoKICAgICAgICBTZXQ8TWFwLkVudHJ5PFJvb3RMZXZlbENvbnN0cmFpbnQsIEludGVnZXI+PiB1bmlxdWVDb25zdHJhaW50cyA9IGNvbnN0cmFpbnRDb3VudGVyCiAgICAgICAgICAgIC5lbnRyeVNldCgpCiAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKGt2cCAtPiBrdnAuZ2V0VmFsdWUoKSA9PSAwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoKICAgICAgICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gIigiICsgY29uc3RyYWludCArICIpIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5nZXREZWNpc2lvbnMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChkZWNpc2lvbiAtPiBkZWNpc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0T3B0aW9ucygpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCh0aGlzOjptYXBDb25zdHJhaW50VG9GaWVsZHMpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TWFwLkVudHJ5PFJvb3RMZXZlbENvbnN0cmFpbnQsIEludGVnZXI+PiBkdXBsaWNhdGVkQ29uc3RyYWludHMgPSBjb25zdHJhaW50Q291bnRlcgogICAgICAgICAgICAuZW50cnlTZXQoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihrdnAgLT4ga3ZwLmdldFZhbHVlKCkgPiAwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoKICAgICAgICBTZXQ8TWFwLkVudHJ5PFJvb3RMZXZlbENvbnN0cmFpbnQsIEludGVnZXI+PiB1bmlxdWVDb25zdHJhaW50cyA9IGNvbnN0cmFpbnRDb3VudGVyCiAgICAgICAgICAgIC5lbnRyeVNldCgpCiAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKGt2cCAtPiBrdnAuZ2V0VmFsdWUoKSA9PSAwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoKICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5nZXREZWNpc2lvbnMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChkZWNpc2lvbiAtPiBkZWNpc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0T3B0aW9ucygpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCh0aGlzOjptYXBDb25zdHJhaW50VG9GaWVsZHMpKSk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLmNvbmNhdCgK</text>
+        <text encoding="base64">ICAgICAgICApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dChuZXcgQ29uc3RyYWludEZpZWxkKHJldCwgbWFwcGVyLm1hcENvbnN0cmFpbnRzVG9GaWVsZHModGhlbkNvbnN0cmFpbnQpKSwgQ29uZGl0aW9uYWxUeXBlLklmKTsKICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dCh0aGVuQ29uc3RyYWludCwgQ29uZGl0aW9uYWxUeXBlLlRoZW4pOwogICAgICAgIGNvbmRpdGlvbmFsVHlwZXMucHV0KGVsc2VDb25zdHJhaW50LCBDb25kaXRpb25hbFR5cGUuRWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLmNvbmNhdCgK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dChuZXcgQ29uc3RyYWludEZpZWxkKHJldCwgbWFwcGVyLm1hcENvbnN0cmFpbnRzVG9GaWVsZHModGhlbkNvbnN0cmFpbnQpKSwgQ29uZGl0aW9uYWxUeXBlLklmKTsKICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dCh0aGVuQ29uc3RyYWludCwgQ29uZGl0aW9uYWxUeXBlLlRoZW4pOwogICAgICAgIGNvbmRpdGlvbmFsVHlwZXMucHV0KGVsc2VDb25zdHJhaW50LCBDb25kaXRpb25hbFR5cGUuRWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dChuZXcgQ29uc3RyYWludEZpZWxkKHJldCwgbWFwcGVyLm1hcENvbnN0cmFpbnRzVG9GaWVsZHModGhlbkNvbnN0cmFpbnQpKSwgQ29uZGl0aW9uYWxUeXBlLklmKTsKICAgICAgICBjb25kaXRpb25hbFR5cGVzLnB1dCh0aGVuQ29uc3RyYWludCwgQ29uZGl0aW9uYWxUeXBlLlRoZW4pOwogICAgICAgIGNvbmRpdGlvbmFsVHlwZXMucHV0KGVsc2VDb25zdHJhaW50LCBDb25kaXRpb25hbFR5cGUuRWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKERlY2lzaW9uTm9kZSBub2RlIDogYmlnUGFydGl0aW9uLmdldFJvb3ROb2RlKCkuZ2V0RGVjaXNpb25zKCkpIHsKCiAgICAgICAgICAgIGZvciAoQ29uc3RyYWludE5vZGUgb3B0aW9uIDogbm9kZS5nZXRPcHRpb25zKCkpIHsKCiAgICAgICAgICAgICAgICBmb3IKCiAgICAgICAgICAgIH0KCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
