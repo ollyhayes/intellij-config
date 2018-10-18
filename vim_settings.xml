@@ -150,11 +150,11 @@
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsStringShorterThanConstraint.java" timestamp="1538991979042">
         <mark key="[" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1539619787215">
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="95" column="20" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1539870689820">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="12" />
         <mark key="^" line="95" column="20" />
-        <mark key="." line="95" column="20" />
+        <mark key="." line="50" column="12" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AffectedFieldsFinder.java" timestamp="1537870067737">
         <mark key="[" line="24" column="13" />
