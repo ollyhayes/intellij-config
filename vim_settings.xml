@@ -281,6 +281,7 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1539940789973" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsGreaterThanOrEqualToConstantConstraint.java" timestamp="1538991892626">
         <mark key="[" line="18" column="5" />
       </file>
@@ -453,7 +454,7 @@
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdHJhaW50c1w+</text>
+        <text>isinset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJpbnRpbmcgcm93IG91dCIpOwo=</text>
@@ -513,17 +514,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdHJhaW50c1w+</last-search>
+      <last-search>isinset</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdHJhaW50c1w+</last-pattern>
+      <last-pattern>isinset</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\s</entry>
         <entry>\s*</entry>
         <entry>\s*\(+\|-\)</entry>
         <entry>^\s*\(+\|-\)</entry>
@@ -543,6 +543,7 @@
         <entry>null(</entry>
         <entry>null\(</entry>
         <entry encoding="base64">XDxjb25zdHJhaW50c1w+</entry>
+        <entry>isinset</entry>
       </history-search>
       <history-cmd>
         <entry>b#</entry>
