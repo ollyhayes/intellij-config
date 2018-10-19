@@ -60,7 +60,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1539939602808">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1539943053369">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="48" />
         <mark key="." line="20" column="44" />
@@ -281,7 +281,13 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1539941390033" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/SetRestrictions.java" timestamp="1539942338678" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1539942718497">
+        <mark key="[" line="83" column="67" />
+        <mark key="]" line="84" column="11" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="84" column="11" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsGreaterThanOrEqualToConstantConstraint.java" timestamp="1538991892626">
         <mark key="[" line="18" column="5" />
       </file>
@@ -318,7 +324,7 @@
         <mark key="." line="140" column="29" />
         <mark key="^" line="124" column="26" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/NullRestrictionsMerger.java" timestamp="1539874373898">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/NullRestrictionsMerger.java" timestamp="1539942298702">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="34" column="17" />
         <mark key="^" line="34" column="17" />
