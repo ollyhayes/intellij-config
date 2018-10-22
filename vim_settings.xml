@@ -134,9 +134,9 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1539877049282">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1540197990303">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="46" />
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
@@ -453,8 +453,8 @@
       <jump line="81" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>FieldExhaustiveCombinationStrategy</text>
       </register>
       <register name="-" type="4">
         <text>List</text>
