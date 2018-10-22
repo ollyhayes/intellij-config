@@ -83,7 +83,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1539772606320">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1540204794909">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="72" column="76" />
         <mark key="]" line="74" column="46" />
         <mark key="." line="74" column="46" />
@@ -351,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="16" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
       <jump line="9" column="56" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
       <jump line="145" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" />
       <jump line="5" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" />
@@ -451,6 +451,7 @@
       <jump line="25" column="5" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/ConstraintToFieldMapper.java" />
       <jump line="75" column="59" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" />
       <jump line="81" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,7 +464,7 @@
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text>isinset</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJpbnRpbmcgcm93IG91dCIpOwo=</text>
@@ -523,9 +524,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isinset</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>isinset</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\s*</entry>
         <entry>\s*\(+\|-\)</entry>
         <entry>^\s*\(+\|-\)</entry>
         <entry>isna</entry>
@@ -553,6 +553,7 @@
         <entry>null\(</entry>
         <entry encoding="base64">XDxjb25zdHJhaW50c1w+</entry>
         <entry>isinset</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>b#</entry>
