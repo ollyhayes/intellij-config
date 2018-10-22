@@ -48,11 +48,10 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/MinimalCombinationStrategy.java" timestamp="1540213006348">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/MinimalCombinationStrategy.java" timestamp="1540215423878">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/restrictions/RestrictionTest.java" timestamp="1537177051735">
         <mark key="[" line="30" column="80" />
@@ -83,6 +82,11 @@
         <mark key="]" line="31" column="13" />
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/MatchesStandardConstraint.java" timestamp="1538992018981">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" timestamp="1540204794909">
         <mark key="'" line="47" column="0" />
@@ -217,11 +221,11 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/Generate.java" timestamp="1540214844979">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/Generate.java" timestamp="1540215415909">
         <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="51" />
-        <mark key="." line="35" column="51" />
-        <mark key="^" line="35" column="51" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/TemporalFieldValueSource.java" timestamp="1538658868238">
         <mark key="[" line="36" column="0" />
@@ -461,11 +465,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/FieldSpecFulfiller.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MinimalCombinationStrategy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="-" type="4">
-        <text>MinimalCombinationStrategy</text>
+        <text>FieldExhaustiveCombinationStrategy</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -477,34 +481,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJpbnRpbmcgcm93IG91dCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5jcnlwdG8uRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaXRlcmF0b3JzLnN0cmVhbSgpLmFsbE1hdGNoKEl0ZXJhdG9yOjpoYXNOZXh0KSkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5jcnlwdG8uRGF0YTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWR1Y2UoKGEsIGIpIC0+IERhdGFCYWcubWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoaXRlcmF0b3JzLnN0cmVhbSgpLmFsbE1hdGNoKEl0ZXJhdG9yOjpoYXNOZXh0KSkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRvci5oYXNOZXh0KCkKICAgICAgICAgICAgICAgICAgICAgICAgPyBpdGVyYXRvci5uZXh0KCkKICAgICAgICAgICAgICAgICAgICAgICAgOiAvL2dldCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWR1Y2UoKGEsIGIpIC0+IERhdGFCYWcubWUpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRvci5oYXNOZXh0KCkKICAgICAgICAgICAgICAgICAgICAgICAgPyBpdGVyYXRvci5uZXh0KCkKICAgICAgICAgICAgICAgICAgICAgICAgOiAvL2dldCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKCFpdGVyYXRvci5oYXNOZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgbGFzdFZhbHVlcy5wdXQoaXRlcmF0b3IsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKCFpdGVyYXRvci5oYXNOZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgbGFzdFZhbHVlcy5wdXQoaXRlcmF0b3IsICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
