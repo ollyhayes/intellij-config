@@ -133,7 +133,7 @@
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1540546237344">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategy.java" timestamp="1540547528769">
         <mark key="'" line="35" column="47" />
         <mark key="[" line="27" column="73" />
         <mark key="]" line="27" column="28" />
@@ -247,7 +247,7 @@
         <mark key="." line="41" column="4" />
         <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/ICombinationStrategy.java" timestamp="1540546248484">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/ICombinationStrategy.java" timestamp="1540547410071">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
