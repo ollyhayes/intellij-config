@@ -103,8 +103,6 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0-sources.jar!/org/hamcrest/collection/IsIterableContainingInOrder.java" timestamp="1540479143347" />
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/DataBag.java" timestamp="1540474863823" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionNode.java" timestamp="1538649157915">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -117,7 +115,6 @@
         <mark key="^" line="14" column="53" />
         <mark key="." line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1540466421746" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538649132323">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="10" />
@@ -293,11 +290,11 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/ExhaustiveCombinationStrategy.java" timestamp="1540484419997">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/ExhaustiveCombinationStrategy.java" timestamp="1540539264991">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/inputs/ProfileReader.java" timestamp="1538121500245">
         <mark key="[" line="41" column="24" />
@@ -305,7 +302,6 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/SetRestrictions.java" timestamp="1539942338678" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1540219971961">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -340,7 +336,6 @@
         <mark key="." line="38" column="52" />
         <mark key="^" line="38" column="52" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/DataBagValue.java" timestamp="1540474893490" />
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/TemporalFieldValueSourceTests.java" timestamp="1536676511015">
         <mark key="[" line="140" column="29" />
         <mark key="]" line="140" column="29" />
@@ -473,11 +468,11 @@
       <jump line="68" column="34" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/combination_strategies/FieldExhaustiveCombinationStrategyTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Minimally</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Minimally</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -489,34 +484,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJhZygiWCIsICJBIiwgIjEiKSwKICAgICAgICAgICAgICAgIGJhZygiWCIsICJCIiwgIjIiKSwKICAgICAgICAgICAgICAgIGJhZygiWCIsICJDIiwgIjMiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhZygiWCIsICJDIiwgIjQiKSwKICAgICAgICAgICAgICAgIGJhZygiWCIsICJDIiwgIjUiKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0b3JzCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5maWx0ZXIoSXRlcmF0b3I6Omhhc05leHQpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChpdGVyYXRvciAtPiBsYXN0VmFsdWVzLnB1dChpdGVyYXRvciwgaXRlcmF0b3IubmV4dCgpKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKCFjdXJyZW50SXRlcmF0b3IuaGFzTmV4dCgpKQogICAgICAgICAgICAgICAgY3VycmVudEl0ZXJhdG9yID0gaXRlcmF0b3JzLmdldChpdGVyYXRvcnMuaW5kZXhPZihjdXJyZW50SXRlcmF0b3IpICsgMSk7CgogICAgICAgICAgICBsYXN0VmFsdWVzLnB1dChjdXJyZW50SXRlcmF0b3IsIGN1cnJlbnRJdGVyYXRvci5uZXh0KCkpOwoKICAgICAgICAgICAgcmV0dXJuIERhdGFCYWcubWVyZ2UobGFzdFZhbHVlcy52YWx1ZXMoKS50b0FycmF5KG5ldyBEYXRhQmFnWzBdKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN1cnJlbnRJdGVyYXRvcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZmluYWwgTWFwPEl0ZXJhdG9yPERhdGFCYWc+LCBEYXRhQmFnPiBsYXN0VmFsdWVzOwovLyAgICAgICAgcHJpdmF0ZSBJdGVyYXRvcjxEYXRhQmFnPiBjdXJyZW50SXRlcmF0b3I7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGl0ZXJhdG9ycwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuYW55TWF0Y2goSXRlcmF0b3I6Omhhc05leHQpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMubGFzdFZhbHVlcyA9IGl0ZXJhdG9ycwogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKAogICAgICAgICAgICAgICAgICAgIGl0ZXJhdG9yIC0+IGl0ZXJhdG9yLAogICAgICAgICAgICAgICAgICAgIGl0ZXJhdG9yIC0+IGl0ZXJhdG9yLm5leHQoKQogICAgICAgICAgICAgICAgKSk7CiAgICAgICAgICAgIHRoaXMuY3VycmVudEl0ZXJhdG9yID0gaXRlcmF0b3JzLmdldCgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJdGVyYXRvcjxEYXRhQmFnPj4gaXRlcmF0b3JzID0gZGF0YUJhZ1NlcXVlbmNlcwogICAgICAgICAgICAgICAgICAgIC5tYXAoSXRlcmFibGU6Oml0ZXJhdG9yKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
