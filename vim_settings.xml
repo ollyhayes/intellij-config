@@ -146,12 +146,6 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/ConcatenatingDataBagSource.java" timestamp="1540565566416">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/FlatteningIterable.java" timestamp="1537194339040">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="40" />
@@ -170,12 +164,6 @@
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/smoke_tests/ExampleProfilesTests.java" timestamp="1540805114785">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/IsLessThanConstantConstraint.java" timestamp="1538991908963">
         <mark key="[" line="18" column="5" />
@@ -228,7 +216,6 @@
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/databags/ConcatenatingDataBagSourceTests.java" timestamp="1540805022874">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
-        <mark key="^" line="10" column="111" />
         <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/combination_strategies/CombinationStrategyTester.java" timestamp="1540804894015">
@@ -356,11 +343,6 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/cucumber/utils/GeneratorTestUtilities.java" timestamp="1540805136759">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1540219971961">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -389,12 +371,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="18" column="33" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/outputs/dataset_writers/JsonDataSetWriter.java" timestamp="1540803433743">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/LimitingFieldValueSource.java" timestamp="1535978637420">
         <mark key="[" line="38" column="28" />
