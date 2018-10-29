@@ -214,9 +214,9 @@
         <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/databags/ConcatenatingDataBagSourceTests.java" timestamp="1540805022874">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/combination_strategies/CombinationStrategyTester.java" timestamp="1540804894015">
         <mark key="[" line="53" column="0" />
