@@ -397,17 +397,14 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1540890984391">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1540911721104">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="37" />
         <mark key="^" line="270" column="11" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="43" column="37" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AutomationUtils.java" timestamp="1540909963039">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
     </filemarks>
     <jumps>
