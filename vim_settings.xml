@@ -38,6 +38,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/AssertingMatcher.java" timestamp="1540912938043">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1536678334049">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="43" />
@@ -397,21 +402,17 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1540911721104">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="37" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1540912736163">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="37" />
         <mark key="^" line="270" column="11" />
-        <mark key="." line="43" column="37" />
+        <mark key="." line="44" column="37" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AutomationUtils.java" timestamp="1540909963039">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
-      <jump line="293" column="80" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
-      <jump line="232" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
-      <jump line="233" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="241" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/RealNumberFieldValueSourceTests.java" />
       <jump line="99" column="23" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapperTests.java" />
       <jump line="110" column="29" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/ConstraintToFieldMapperTests.java" />
@@ -508,19 +509,23 @@
       <jump line="44" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AutomationUtils.java" />
       <jump line="35" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AutomationUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AutomationUtils.java" />
+      <jump line="74" column="33" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" />
+      <jump line="97" column="39" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" />
+      <jump line="102" column="35" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" />
+      <jump line="114" column="39" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGeneratorTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgVHJhbnNpdGlvbltdIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>des</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXh0VHJhbnNpdGlvbnNcPg==</text>
+        <text encoding="base64">XDxpc0VxdWl2YWxlbnRUb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zaXRpb25bXSBuZXh0VHJhbnNpdGlvblBhdGggPSBBcnJheXMuY29weU9mKAogICAgICAgICAgICAgICAgICAgIGN1cnJlbnRUcmFuc2l0aW9uUGF0aCwKICAgICAgICAgICAgICAgICAgICBjdXJyZW50VHJhbnNpdGlvblBhdGgubGVuZ3RoICsgMSk7CiAgICAgICAgICAgICAgICBuZXh0VHJhbnNpdGlvblBhdGhbbmV4dFRyYW5zaXRpb25QYXRoLmxlbmd0aCAtIDFdID0gbmV4dFRyYW5zaXRpb247Cg==</text>
@@ -563,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXh0VHJhbnNpdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxpc0VxdWl2YWxlbnRUb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXh0VHJhbnNpdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0VxdWl2YWxlbnRUb1w+</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>A</entry>
         <entry>partitionindex</entry>
         <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
         <entry>null</entry>
@@ -593,6 +597,7 @@
         <entry>longest</entry>
         <entry>bebo</entry>
         <entry encoding="base64">XDxuZXh0VHJhbnNpdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxpc0VxdWl2YWxlbnRUb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>!start &quot;C:\Program Files (x86)\GitExtensions\gitex.cmd&quot; filehistory &quot;%:p&quot;</entry>
