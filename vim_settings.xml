@@ -151,9 +151,9 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1539679475870">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="17" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeGenerator.java" timestamp="1541006090915">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="85" column="40" />
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
       </file>
@@ -492,8 +492,8 @@
       <jump line="53" column="16" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICBPUigKICAgICAgICAgICAgLy8gICAgIEFORChWSU9MQVRFKFgpLCBZLCBaKSwKICAgICAgICAgICAgLy8gICAgIEFORChYLCBWSU9MQVRFKFkpLCBaKSwKICAgICAgICAgICAgLy8gICAgIEFORChYLCBZLCBWSU9MQVRFKFopKSk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
