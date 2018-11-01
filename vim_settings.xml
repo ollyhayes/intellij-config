@@ -84,10 +84,10 @@
         <mark key="'" line="152" column="25" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/outputs/targets/IOutputTarget.java" timestamp="1540569983420">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/RuleFieldMapper.java" timestamp="1537947845205">
         <mark key="[" line="31" column="17" />
@@ -122,10 +122,10 @@
         <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/outputs/targets/DirectoryOutputTarget.java" timestamp="1540570001153">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="35" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1540909506306">
         <mark key="'" line="53" column="38" />
@@ -182,7 +182,6 @@
         <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1541004693798">
-        <mark key="'" line="53" column="16" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
