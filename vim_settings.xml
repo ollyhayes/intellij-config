@@ -38,11 +38,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1536678334049">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1541091303275">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="45" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" timestamp="1536676068707">
         <mark key="[" line="51" column="0" />
@@ -486,7 +486,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gc2V0MSA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzKSk7CiAgICAgICAgU2V0PEludGVnZXI+IHNldDIgPSBuZXcgSGFzaFNldDw+KEFycmF5cy5hc0xpc3QoMywgMiwgMSkpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2V0MS5lcXVhbHMoc2V0MikpOw==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -497,8 +497,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpc0VxdWl2YWxlbnRUb1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIG1hdGNoZXMoT2JqZWN0IG91dGVyT2JqZWN0LCBEZXNjcmlwdGlvbiBkZXNjcmlwdGlvbikgewogICAgICAgIGZpbmFsIEF0b21pY1JlZmVyZW5jZTxCb29sZWFuPiBmYWlsZWQgPSBuZXcgQXRvbWljUmVmZXJlbmNlPD4oZmFsc2UpOwoKICAgICAgICBhc3NlcnRlci5hY2NlcHQoCiAgICAgICAgICAgIChUKW91dGVyT2JqZWN0LAogICAgICAgICAgICBuZXcgU3ViQXNzZXJ0ZXIoZmFpbGVkLCBkZXNjcmlwdGlvbikpOwoKICAgICAgICByZXR1cm4gIWZhaWxlZC5nZXQoKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KDEsIDIsIDMpKTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZAo=</text>
