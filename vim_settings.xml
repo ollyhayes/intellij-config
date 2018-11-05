@@ -157,11 +157,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/AndConstraint.java" timestamp="1534340843832">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="55" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="6" column="55" />
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/AndConstraint.java" timestamp="1541409608944">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+        <mark key="." line="33" column="25" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/outputs/dataset_writers/IDataSetWriter.java" timestamp="1540570008724">
         <mark key="[" line="16" column="8" />
@@ -318,13 +318,6 @@
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/SetRestrictions.java" timestamp="1541152885102">
         <mark key="[" line="87" column="30" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1541173361846">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="107" column="40" />
-        <mark key="]" line="107" column="51" />
-        <mark key="." line="107" column="51" />
-        <mark key="^" line="107" column="51" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/WalkerProgress.java" timestamp="1541173592804">
         <mark key="[" line="60" column="0" />
