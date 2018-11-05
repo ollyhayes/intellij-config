@@ -157,6 +157,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/smoke_tests/ExampleProfilesTests.java" timestamp="1541426257863">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/AndConstraint.java" timestamp="1541409608944">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="25" />
