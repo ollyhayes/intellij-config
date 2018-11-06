@@ -157,11 +157,6 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/smoke_tests/ExampleProfilesTests.java" timestamp="1541426257863">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/AndConstraint.java" timestamp="1541409608944">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="25" />
@@ -315,11 +310,6 @@
         <mark key="^" line="39" column="11" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeMatchers.java" timestamp="1541436203178">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1536141980615">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="39" />
@@ -389,10 +379,7 @@
         <mark key="." line="39" column="16" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1540913807223">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="270" column="11" />
-        <mark key="." line="44" column="37" />
+        <mark key="^" line="271" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1540914135444">
         <mark key="[" line="0" column="23" />
