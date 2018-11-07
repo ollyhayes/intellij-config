@@ -103,12 +103,6 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionNode.java" timestamp="1541516164995">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="10" column="27" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeCollection.java" timestamp="1538126843070">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="53" />
@@ -176,9 +170,9 @@
         <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1541004693798">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AffectedFieldsFinder.java" timestamp="1537870067737">
         <mark key="[" line="24" column="13" />
@@ -273,12 +267,6 @@
         <mark key="]" line="24" column="4" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="24" column="4" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/ConstraintNode.java" timestamp="1541518350873">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="154" column="85" />
-        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/combination_strategies/ICombinationStrategy.java" timestamp="1540564811999">
         <mark key="[" line="4" column="0" />
