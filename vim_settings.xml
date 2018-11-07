@@ -214,6 +214,11 @@
         <mark key="." line="22" column="72" />
         <mark key="^" line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" timestamp="1541579966797">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/MultiplexingDataBagSource.java" timestamp="1540565285657">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="16" />
@@ -480,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbW9zdFByb2xpZmljQ29uc3RyYWludE9wdAogICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gY29uc3RyYWludC5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>decisionNode.getOptions().iterator().next();</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -492,19 +497,19 @@
         <text>stream</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChjb25zdHJhaW50IC0+IGNvbnN0cmFpbnQuZ2V0VmFsdWUoKSA8PSAxKQogICAgICAgICAgICAub3JFbHNlKGZhbHNlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbW9zdFByb2xpZmljQ29uc3RyYWludE9wdAogICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gY29uc3RyYWludC5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uLmdldERlY2lzaW9ucygpLmZvckVhY2godGhpczo6YWRkRGVjaXNpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW1vc3RQcm9saWZpY0NvbnN0cmFpbnRPcHQubwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB2b2lkIGluc2VydERlY2lzaW9uTm9kZSgKICAgICAgICBEZWNpc2lvbk5vZGUgZGVjaXNpb25Ob2RlLAogICAgICAgIERlY2lzaW9uTm9kZSBpbW1lZGlhdGVseUFmdGVyKSB7CiAgICAgICAgaW50IGluZGV4ID0gdGhpcy5kZWNpc2lvbnMuaW5kZXhPZihpbW1lZGlhdGVseUFmdGVyKTsKCiAgICAgICAgaWYgKGluZGV4ID49IDApCiAgICAgICAgICAgIHRoaXMuZGVjaXNpb25zLmFkZChpbmRleCArIDEsIGRlY2lzaW9uTm9kZSk7CiAgICAgICAgZWxzZQogICAgICAgICAgICBkZWNpc2lvbnMuYWRkKGRlY2lzaW9uTm9kZSk7IC8vYWRkIGF0IHRoZSBlbmQgb2YgdGhlIGNvbGxlY3Rpb24KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeS5nZXRLZXkoKSBpbnN0YW5jZW9mIE5vdENvbnN0cmFpbnQgPyAwIDogMQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
@@ -516,13 +521,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uLmdldERlY2lzaW9ucygpLmZvckVhY2godGhpczo6YWRkRGVjaXNpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICB2b2lkIGluc2VydERlY2lzaW9uTm9kZSgKICAgICAgICBEZWNpc2lvbk5vZGUgZGVjaXNpb25Ob2RlLAogICAgICAgIERlY2lzaW9uTm9kZSBpbW1lZGlhdGVseUFmdGVyKSB7CiAgICAgICAgaW50IGluZGV4ID0gdGhpcy5kZWNpc2lvbnMuaW5kZXhPZihpbW1lZGlhdGVseUFmdGVyKTsKCiAgICAgICAgaWYgKGluZGV4ID49IDApCiAgICAgICAgICAgIHRoaXMuZGVjaXNpb25zLmFkZChpbmRleCArIDEsIGRlY2lzaW9uTm9kZSk7CiAgICAgICAgZWxzZQogICAgICAgICAgICBkZWNpc2lvbnMuYWRkKGRlY2lzaW9uTm9kZSk7IC8vYWRkIGF0IHRoZSBlbmQgb2YgdGhlIGNvbGxlY3Rpb24KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBib29sZWFuIGF0b21pY0NvbnN0cmFpbnRFeGlzdHMoQ29uc3RyYWludE5vZGUgY29uc3RyYWludE5vZGUpIHsKICAgICAgICByZXR1cm4gY29uc3RyYWludE5vZGUuYXRvbWljQ29uc3RyYWludHMKICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5hbnlNYXRjaCh0aGlzOjphdG9taWNDb25zdHJhaW50RXhpc3RzKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
