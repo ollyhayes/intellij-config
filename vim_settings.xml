@@ -115,6 +115,12 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/RegexStringGeneratorTests.java" timestamp="1540909506306">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="4" />
+        <mark key="." line="129" column="4" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTree.java" timestamp="1538649132323">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="10" />
@@ -208,12 +214,11 @@
         <mark key="." line="22" column="72" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" timestamp="1541595624652">
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" timestamp="1541607289732">
         <mark key="'" line="57" column="20" />
-        <mark key="[" line="185" column="53" />
-        <mark key="]" line="185" column="53" />
-        <mark key="." line="185" column="53" />
-        <mark key="^" line="219" column="7" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/databags/MultiplexingDataBagSource.java" timestamp="1540565285657">
         <mark key="[" line="16" column="11" />
@@ -468,8 +473,8 @@
       <jump line="57" column="20" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEF0IHRoaXMgcG9pbnQgd2UndmUgcmVtb3ZlZCBhbnkgb2YgdGhlIGN1cnJlbnQgZGVjaXNpb24ncyBvcHRpb25zIHRoYXQgY29udGFpbiB0aGUgbW9zdCBwcm9saWZpYyBjb25zdHJhaW50CiAgICAgICAgICAgICAgICAvLyBvciBuZWdhdGVkIG1wYy4gQWxsIHRoYXQgaXMgbGVmdCBhcmUgb3B0aW9ucyB0aGF0IGNvbnRhaW4gb3RoZXIgY29uc3RyYWludHMuCiAgICAgICAgICAgICAgICAvLyBUaG9zZSBjb25zdHJhaW50IG5vZGVzIG5lZWQgbW92aW5nIGVpdGhlciB0bzoKICAgICAgICAgICAgICAgIC8vICogYW4gb3B0aW9uIHVuZGVyIHRoZSBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIGFuIG9wdGlvbiB1bmRlciB0aGUgbmVnYXRlZCBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIG9yIGFub3RoZXIgb3B0aW9uIGFsb25nc2lkZSB0aGUgZmFjdG9yaXNpbmcgY29uc3RyYWludCBub2RlLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -484,34 +489,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLm1hcChjb25zdHJhaW50IC0+IGNvbnN0cmFpbnQuZ2V0VmFsdWUoKSA8PSAxKQogICAgICAgICAgICAub3JFbHNlKGZhbHNlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEF0IHRoaXMgcG9pbnQgd2UndmUgcmVtb3ZlZCBhbnkgb2YgdGhlIGN1cnJlbnQgZGVjaXNpb24ncyBvcHRpb25zIHRoYXQgY29udGFpbiB0aGUgbW9zdCBwcm9saWZpYyBjb25zdHJhaW50CiAgICAgICAgICAgICAgICAvLyBvciBuZWdhdGVkIG1wYy4gQWxsIHRoYXQgaXMgbGVmdCBhcmUgb3B0aW9ucyB0aGF0IGNvbnRhaW4gb3RoZXIgY29uc3RyYWludHMuCiAgICAgICAgICAgICAgICAvLyBUaG9zZSBjb25zdHJhaW50IG5vZGVzIG5lZWQgbW92aW5nIGVpdGhlciB0bzoKICAgICAgICAgICAgICAgIC8vICogYW4gb3B0aW9uIHVuZGVyIHRoZSBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIGFuIG9wdGlvbiB1bmRlciB0aGUgbmVnYXRlZCBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIG9yIGFub3RoZXIgb3B0aW9uIGFsb25nc2lkZSB0aGUgZmFjdG9yaXNpbmcgY29uc3RyYWludCBub2RlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9yIGFuIG9wdGlvbiB1bmRlciB0aGUgZmFjdG9yaXNpbmdDb25zdHJhaW50IChvciBuZWdhdGVkIGZhY3RvcmlzaW5nQ29uc3RyYWludCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbW9zdFByb2xpZmljQ29uc3RyYWludE9wdAogICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gY29uc3RyYWludC5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW1vc3RQcm9saWZpY0NvbnN0cmFpbnRPcHQubwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbW9zdFByb2xpZmljQ29uc3RyYWludE9wdAogICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gY29uc3RyYWludC5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeS5nZXRLZXkoKSBpbnN0YW5jZW9mIE5vdENvbnN0cmFpbnQgPyAwIDogMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW1vc3RQcm9saWZpY0NvbnN0cmFpbnRPcHQubwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeS5nZXRLZXkoKSBpbnN0YW5jZW9mIE5vdENvbnN0cmFpbnQgPyAwIDogMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uLmdldERlY2lzaW9ucygpLmZvckVhY2godGhpczo6YWRkRGVjaXNpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
