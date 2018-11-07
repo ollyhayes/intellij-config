@@ -369,10 +369,6 @@
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/cucumber/EqualTo.feature" timestamp="1541586016174">
-        <mark key="[" line="361" column="28" />
-        <mark key="]" line="361" column="8028" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="143" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
@@ -536,7 +532,7 @@
       <last-replace>C</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
