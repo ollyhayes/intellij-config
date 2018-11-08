@@ -33,11 +33,6 @@
         <mark key="." line="31" column="46" />
         <mark key="^" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/combination_strategies/MinimalCombinationStrategyTests.java" timestamp="1540804882048">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1541091303275">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="38" column="45" />
@@ -91,11 +86,6 @@
         <mark key="]" line="31" column="13" />
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="12" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/constraints/MatchesStandardConstraint.java" timestamp="1538992018981">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/IFieldValueSource.java" timestamp="1535978402568">
         <mark key="[" line="8" column="29" />
@@ -169,11 +159,6 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1541004693798">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/AffectedFieldsFinder.java" timestamp="1537870067737">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
@@ -191,16 +176,6 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
         <mark key="^" line="30" column="34" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/databags/ConcatenatingDataBagSourceTests.java" timestamp="1540805022874">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/combination_strategies/CombinationStrategyTester.java" timestamp="1540804894015">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeProfile.java" timestamp="1538059925360">
         <mark key="[" line="8" column="25" />
@@ -322,11 +297,6 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/walker/WalkerProgress.java" timestamp="1541173592804">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/TypeRestrictionsMerger.java" timestamp="1539955686709">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="21" />
@@ -368,6 +338,12 @@
         <mark key="]" line="39" column="16" />
         <mark key="^" line="39" column="50" />
         <mark key="." line="39" column="16" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitionerTests.java" timestamp="1541666503784">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="268" column="25" />
+        <mark key="^" line="268" column="25" />
+        <mark key="." line="268" column="25" />
       </file>
     </filemarks>
     <jumps>
