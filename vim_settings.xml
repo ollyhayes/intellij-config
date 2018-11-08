@@ -39,6 +39,12 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/DefaultTreePartitioner.java" timestamp="1541686200703">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/JavaUtilRandomNumberGenerator.java" timestamp="1536676068707">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -122,6 +128,19 @@
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/ITreePartitioner.java" timestamp="1541686099040">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" timestamp="1541688748031">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="19" column="75" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/utils/FlatteningIterable.java" timestamp="1537194339040">
         <mark key="[" line="9" column="30" />
@@ -250,6 +269,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" timestamp="1541688330549">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/GranularityRestrictions.java" timestamp="1536847797177">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="13" column="8" />
@@ -298,6 +324,12 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="21" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/SetRestrictions.java" timestamp="1541152885102">
+        <mark key="[" line="87" column="30" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/tree_partitioning/TreePartitioner.java" timestamp="1541686179854">
+        <mark key="[" line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/restrictions/TypeRestrictionsMerger.java" timestamp="1539955686709">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="21" />
@@ -316,11 +348,24 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/GenerationEngine.java" timestamp="1541688220880">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="40" column="63" />
+      </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/generation/field_value_sources/LimitingFieldValueSource.java" timestamp="1535978637420">
         <mark key="[" line="38" column="28" />
         <mark key="]" line="38" column="52" />
         <mark key="." line="38" column="52" />
         <mark key="^" line="38" column="52" />
+      </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" timestamp="1541687773064">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/generation/field_value_sources/TemporalFieldValueSourceTests.java" timestamp="1536676511015">
         <mark key="[" line="140" column="29" />
@@ -346,18 +391,17 @@
         <mark key="^" line="268" column="25" />
         <mark key="." line="268" column="25" />
       </file>
+      <file name="$USER_HOME$/tools/data-engineering-generator2/generator/src/test/java/com/scottlogic/deg/generator/cucumber/utils/GeneratorTestUtilities.java" timestamp="1541688702639">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="65" column="43" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1540914135444">
+        <mark key="[" line="0" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="167" column="28" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="209" column="30" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="306" column="88" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="240" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="62" column="9" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="151" column="33" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="161" column="19" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
       <jump line="166" column="12" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
       <jump line="171" column="20" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/test/java/com/scottlogic/deg/generator/decisiontree/TreePartitionerTests.java" />
       <jump line="26" column="0" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/TreePartitioner.java" />
@@ -448,13 +492,23 @@
       <jump line="37" column="17" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" />
       <jump line="44" column="49" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" />
       <jump line="57" column="20" filename="$USER_HOME$/tools/data-engineering-generator/generator/src/main/java/com/scottlogic/deg/generator/decisiontree/DecisionTreeOptimiser.java" />
+      <jump line="30" column="53" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/generation/DataGenerator.java" />
+      <jump line="7" column="11" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/DecisionTreeWalker.java" />
+      <jump line="21" column="33" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
+      <jump line="96" column="4" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/tools/data-engineering-generator2/generator/src/main/java/com/scottlogic/deg/generator/walker/ExhaustiveDecisionTreeWalker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEF0IHRoaXMgcG9pbnQgd2UndmUgcmVtb3ZlZCBhbnkgb2YgdGhlIGN1cnJlbnQgZGVjaXNpb24ncyBvcHRpb25zIHRoYXQgY29udGFpbiB0aGUgbW9zdCBwcm9saWZpYyBjb25zdHJhaW50CiAgICAgICAgICAgICAgICAvLyBvciBuZWdhdGVkIG1wYy4gQWxsIHRoYXQgaXMgbGVmdCBhcmUgb3B0aW9ucyB0aGF0IGNvbnRhaW4gb3RoZXIgY29uc3RyYWludHMuCiAgICAgICAgICAgICAgICAvLyBUaG9zZSBjb25zdHJhaW50IG5vZGVzIG5lZWQgbW92aW5nIGVpdGhlciB0bzoKICAgICAgICAgICAgICAgIC8vICogYW4gb3B0aW9uIHVuZGVyIHRoZSBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIGFuIG9wdGlvbiB1bmRlciB0aGUgbmVnYXRlZCBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIG9yIGFub3RoZXIgb3B0aW9uIGFsb25nc2lkZSB0aGUgZmFjdG9yaXNpbmcgY29uc3RyYWludCBub2RlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLnRyZWVfcGFydGl0aW9uaW5nLk5vb3BUcmVlUGFydGl0aW9uZXI7CmltcG9ydCBjb20uc2NvdHRsb2dpYy5kZWcuZ2VuZXJhdG9yLmRlY2lzaW9udHJlZS50cmVlX3BhcnRpdGlvbmluZy5UcmVlUGFydGl0aW9uZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <text>jj</text>
@@ -463,37 +517,37 @@
         <text encoding="base64">XDxvcHRpbWlzZURlY2lzaW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChjb25zdHJhaW50IC0+IGNvbnN0cmFpbnQuZ2V0VmFsdWUoKSA8PSAxKQogICAgICAgICAgICAub3JFbHNlKGZhbHNlKSkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJlYW08Um93U3BlYz4gd2FsayhEZWNpc2lvblRyZWUgdHJlZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEF0IHRoaXMgcG9pbnQgd2UndmUgcmVtb3ZlZCBhbnkgb2YgdGhlIGN1cnJlbnQgZGVjaXNpb24ncyBvcHRpb25zIHRoYXQgY29udGFpbiB0aGUgbW9zdCBwcm9saWZpYyBjb25zdHJhaW50CiAgICAgICAgICAgICAgICAvLyBvciBuZWdhdGVkIG1wYy4gQWxsIHRoYXQgaXMgbGVmdCBhcmUgb3B0aW9ucyB0aGF0IGNvbnRhaW4gb3RoZXIgY29uc3RyYWludHMuCiAgICAgICAgICAgICAgICAvLyBUaG9zZSBjb25zdHJhaW50IG5vZGVzIG5lZWQgbW92aW5nIGVpdGhlciB0bzoKICAgICAgICAgICAgICAgIC8vICogYW4gb3B0aW9uIHVuZGVyIHRoZSBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIGFuIG9wdGlvbiB1bmRlciB0aGUgbmVnYXRlZCBmYWN0b3Jpc2luZyBjb25zdHJhaW50IG5vZGUsCiAgICAgICAgICAgICAgICAvLyAqIG9yIGFub3RoZXIgb3B0aW9uIGFsb25nc2lkZSB0aGUgZmFjdG9yaXNpbmcgY29uc3RyYWludCBub2RlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zY290dGxvZ2ljLmRlZy5nZW5lcmF0b3IuZGVjaXNpb250cmVlLnRyZWVfcGFydGl0aW9uaW5nLk5vb3BUcmVlUGFydGl0aW9uZXI7CmltcG9ydCBjb20uc2NvdHRsb2dpYy5kZWcuZ2VuZXJhdG9yLmRlY2lzaW9udHJlZS50cmVlX3BhcnRpdGlvbmluZy5UcmVlUGFydGl0aW9uZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9yIGFuIG9wdGlvbiB1bmRlciB0aGUgZmFjdG9yaXNpbmdDb25zdHJhaW50IChvciBuZWdhdGVkIGZhY3RvcmlzaW5nQ29uc3RyYWludCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBSb3dTcGVjTWVyZ2VyKAogICAgICAgICAgICAgICAgICAgIG5ldyBGaWVsZFNwZWNNZXJnZXIoKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgdm9pZCBzaG91bGRTcGxpdFRyZWVJbnRvUGFydGl0aW9ucygpIHsKICAgICAgICAvLyB3ZSBwYXNzIGluIGEgdHJlZSB0aGF0IGhhcyBzb21lIHBhcnRzIGluIGRpZmZlcmVudCBwYXJ0aXRpb25zCiAgICAgICAgLy8gd2UgcGFzcyBpbiBhIHRyZWUgdGhhdCBoYXMgb25seSBvbmUgcGFydGl0aW9uCiAgICAgICAgLy8gcGFzcyBpbiBhIHRyZWUgd2l0aCBmaWVsZHMgdGhhdCBhcmUgbm90IGNvbnN0cmFpbmVkCiAgICAgICAgLy8gZG8gd2UgbmVlZCB0byBwYXNzIGluIGEgbW9jayBldmVyPyBJIGRvbid0IGtub3cKCiAgICAgICAgZ2l2ZW5GaWVsZHMoIkEiLCAiQiIsICJDIiwgIkQiLCAiRSIsICJGIik7CiAgICAgICAgZ2l2ZW5Sb290Tm9kZShjb25zdHJhaW50KAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkIiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICApLAogICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkUiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkYiKQogICAgICAgICAgICApCiAgICAgICAgKSk7CgogICAgICAgIGV4cGVjdFRyZWVzKAogICAgICAgICAgICB0cmVlKGZpZWxkcygiQSIsICJCIiwgIkMiKSwKICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoCiAgICAgICAgICAgICAgICAgICAgZGVjaXNpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiQiIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIikKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGRlY2lzaW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJDIiksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQoIkQiKQogICAgICAgICAgICAgICAgICAgICkpKSwKICAgICAgICAgICAgdHJlZShmaWVsZHMoIkUiLCAiRiIpLAogICAgICAgICAgICAgICAgY29uc3RyYWludCgKICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbigKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCgiRSIpLAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50KCJGIikKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICApKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gbW9zdFByb2xpZmljQ29uc3RyYWludE9wdAogICAgICAgICAgICAubWFwKGNvbnN0cmFpbnQgLT4gY29uc3RyYWludC5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQpwdWJsaWMgY2xhc3MgRGVjaXNpb25UcmVlV2Fsa2VyIHsKICAgIHByaXZhdGUgZmluYWwgQ29uc3RyYWludFJlZHVjZXIgY29uc3RyYWludFJlZHVjZXI7CiAgICBwcml2YXRlIGZpbmFsIFJvd1NwZWNNZXJnZXIgcm93U3BlY01lcmdlcjsKCiAgICBwdWJsaWMgRGVjaXNpb25UcmVlV2Fsa2VyKAogICAgICAgICAgICBDb25zdHJhaW50UmVkdWNlciBjb25zdHJhaW50UmVkdWNlciwKICAgICAgICAgICAgUm93U3BlY01lcmdlciByb3dTcGVjTWVyZ2VyCiAgICApIHsKICAgICAgICB0aGlzLmNvbnN0cmFpbnRSZWR1Y2VyID0gY29uc3RyYWludFJlZHVjZXI7CiAgICAgICAgdGhpcy5yb3dTcGVjTWVyZ2VyID0gcm93U3BlY01lcmdlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyZWFtPFJvd1NwZWM+IHdhbGsoRGVjaXNpb25UcmVlIHRyZWUpIHsKICAgICAgICBmaW5hbCBEZWNpc2lvblRyZWVXYWxrZXJIZWxwZXIgaGVscGVyID0gbmV3IERlY2lzaW9uVHJlZVdhbGtlckhlbHBlcih0cmVlLmdldEZpZWxkcygpKTsKICAgICAgICByZXR1cm4gaGVscGVyLndhbGsodHJlZS5nZXRSb290Tm9kZSgpKTsKICAgIH0KCiAgICBwcml2YXRlIGNsYXNzIERlY2lzaW9uVHJlZVdhbGtlckhlbHBlciB7CiAgICAgICAgcHJpdmF0ZSBmaW5hbCBQcm9maWxlRmllbGRzIHByb2ZpbGVGaWVsZHM7CgogICAgICAgIHByaXZhdGUgRGVjaXNpb25UcmVlV2Fsa2VySGVscGVyKFByb2ZpbGVGaWVsZHMgcHJvZmlsZUZpZWxkcykgewogICAgICAgICAgICB0aGlzLnByb2ZpbGVGaWVsZHMgPSBwcm9maWxlRmllbGRzOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBSb3dTcGVjIGdldElkZW50aXR5Um93U3BlYygpIHsKICAgICAgICAgICAgZmluYWwgTWFwPEZpZWxkLCBGaWVsZFNwZWM+IGZpZWxkVG9GaWVsZFNwZWMgPSBwcm9maWxlRmllbGRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChGdW5jdGlvbi5pZGVudGl0eSgpLCBmaWVsZCAtPiBuZXcgRmllbGRTcGVjKCkpKTsKCiAgICAgICAgICAgIHJldHVybiBuZXcgUm93U3BlYyhwcm9maWxlRmllbGRzLCBmaWVsZFRvRmllbGRTcGVjKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJlYW08Um93U3BlYz4gd2FsayhDb25zdHJhaW50Tm9kZSBjb25zdHJhaW50KSB7CiAgICAgICAgICAgIHJldHVybiB3YWxrKGNvbnN0cmFpbnQsIGdldElkZW50aXR5Um93U3BlYygpKTsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgU3RyZWFtPFJvd1NwZWM+IHdhbGsoQ29uc3RyYWludE5vZGUgb3B0aW9uLCBSb3dTcGVjIGFjY3VtdWxhdGVkU3BlYykgewogICAgICAgICAgICBmaW5hbCBPcHRpb25hbDxSb3dTcGVjPiBub21pbmFsUm93U3BlYyA9IG9wdGlvbi5nZXRPckNyZWF0ZVJvd1NwZWMoKCkgLT4gY29uc3RyYWludFJlZHVjZXIucmVkdWNlQ29uc3RyYWludHNUb1Jvd1NwZWMoCiAgICAgICAgICAgICAgICAgICAgcHJvZmlsZUZpZWxkcywKICAgICAgICAgICAgICAgICAgICBvcHRpb24uZ2V0QXRvbWljQ29uc3RyYWludHMoKQogICAgICAgICAgICApKTsKCiAgICAgICAgICAgIGlmICghbm9taW5hbFJvd1NwZWMuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdHJlYW0uZW1wdHkoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZmluYWwgT3B0aW9uYWw8Um93U3BlYz4gbWVyZ2VkUm93U3BlY09wdCA9IHJvd1NwZWNNZXJnZXIubWVyZ2UoCiAgICAgICAgICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vbWluYWxSb3dTcGVjLmdldCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWNjdW11bGF0ZWRTcGVjCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICApOwoKICAgICAgICAgICAgaWYgKCFtZXJnZWRSb3dTcGVjT3B0LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gU3RyZWFtLmVtcHR5KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZpbmFsIFJvd1NwZWMgbWVyZ2VkUm93U3BlYyA9IG1lcmdlZFJvd1NwZWNPcHQuZ2V0KCk7CgogICAgICAgICAgICBpZiAob3B0aW9uLmdldERlY2lzaW9ucygpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIFN0cmVhbS5vZihtZXJnZWRSb3dTcGVjKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIG9wdGlvbi5nZXREZWNpc2lvbnMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAucmVkdWNlKAogICAgICAgICAgICAgICAgICAgIFN0cmVhbS5vZihtZXJnZWRSb3dTcGVjKSwKICAgICAgICAgICAgICAgICAgICAoYWNjLCBkZWNpc2lvbk5vZGUpIC0+IGFjYy5mbGF0TWFwKGFSb3dTcGVjRnJvbUNhcnRlc2lhblByb2R1Y3RzU29GYXIgLT4gd2FsayhkZWNpc2lvbk5vZGUsIGFSb3dTcGVjRnJvbUNhcnRlc2lhblByb2R1Y3RzU29GYXIpKSwKICAgICAgICAgICAgICAgICAgICBTdHJlYW06OmNvbmNhdCk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIFN0cmVhbTxSb3dTcGVjPiB3YWxrKERlY2lzaW9uTm9kZSBkZWNpc2lvbiwgUm93U3BlYyBhY2N1bXVsYXRlZFNwZWMpIHsKICAgICAgICAgICAgcmV0dXJuIGRlY2lzaW9uCiAgICAgICAgICAgICAgICAgICAgLmdldE9wdGlvbnMoKQogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKG9wdGlvbiAtPiB3YWxrKG9wdGlvbiwgYWNjdW11bGF0ZWRTcGVjKSk7CiAgICAgICAgfQogICAgfQo+Pj4+Pj4+IG9yaWdpbi9ob2lzdGluZy10cmlhbAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW1vc3RQcm9saWZpY0NvbnN0cmFpbnRPcHQubwo=</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBEZWNpc2lvblRyZWVXYWxrZXIgewogICAgU3RyZWFtPFJvd1NwZWM+IHdhbGsoRGVjaXNpb25UcmVlIHRyZWUpOwo9PT09PT09Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRyeS5nZXRLZXkoKSBpbnN0YW5jZW9mIE5vdENvbnN0cmFpbnQgPyAwIDogMQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vaG9pc3RpbmctdHJpYWwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
